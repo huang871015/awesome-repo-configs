@@ -322,5 +322,11 @@
     "branch": "main",
     "skillsPath": "skills",
     "enabled": true
+  },
+  "bin1874/before-you-build-skill": {
+    "owner": "bin1874",
+    "name": "before-you-build-skill",
+    "branch": "main",
+    "enabled": true
   }
 }
