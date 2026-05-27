@@ -559,5 +559,14 @@
     "repoOwner": "3dnow",
     "repoName": "vibeworkload",
     "repoBranch": "main"
+  },
+  "ggrigo/align": {
+    "name": "ggrigo/align",
+    "description": "Personal evals trio for Claude Code and Cowork. /align rates LLM claims (correct/wrong/almost/needs-nuance/can't-verify/skipped) in a local HTML form; /diagnose traces wrong claims back to the stale instruction that caused them with quoted-evidence citations + confidence scoring; /retro synthesizes the archive into failure-mode clusters and gated patch PRs. Human-in-the-loop, runs locally, MIT.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "ggrigo",
+    "repoName": "align",
+    "repoBranch": "main"
   }
 }
