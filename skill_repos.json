@@ -1,338 +1,356 @@
 {
-  "ndesv21/socialclaw": {
-    "owner": "ndesv21",
-    "name": "socialclaw",
-    "branch": "main",
-    "enabled": true
-  },
-  "K-Dense-AI/claude-scientific-skills": {
-    "owner": "K-Dense-AI",
-    "name": "claude-scientific-skills",
-    "branch": "main",
-    "enabled": true
-  },
-  "Jeffallan/claude-skills": {
-    "owner": "Jeffallan",
-    "name": "claude-skills",
-    "branch": "main",
-    "enabled": true
-  },
-  "ComposioHQ/awesome-claude-skills": {
-    "owner": "ComposioHQ",
-    "name": "awesome-claude-skills",
-    "branch": "main",
-    "enabled": true
-  },
-  "PleasePrompto/notebooklm-skill": {
-    "owner": "PleasePrompto",
-    "name": "notebooklm-skill",
-    "branch": "main",
-    "enabled": true
-  },
-  "davila7/claude-code-templates": {
-    "owner": "davila7",
-    "name": "claude-code-templates",
-    "branch": "main",
-    "enabled": true
-  },
-  "MicrosoftDocs/mcp": {
-    "owner": "MicrosoftDocs",
-    "name": "mcp",
-    "branch": "main",
-    "enabled": true
-  },
-  "daymade/claude-code-skills": {
-    "owner": "daymade",
-    "name": "claude-code-skills",
-    "branch": "main",
-    "enabled": true
-  },
-  "bradleygolden/claude-marketplace-elixir": {
-    "owner": "bradleygolden",
-    "name": "claude-marketplace-elixir",
-    "branch": "main",
-    "enabled": true
-  },
-  "athola/claude-night-market": {
-    "owner": "athola",
-    "name": "claude-night-market",
-    "branch": "main",
-    "enabled": true
-  },
-  "adrianpuiu/claude-skills-marketplace": {
-    "owner": "adrianpuiu",
-    "name": "claude-skills-marketplace",
-    "branch": "main",
-    "enabled": true
-  },
-  "mrgoonie/claudekit-skills": {
-    "owner": "mrgoonie",
-    "name": "claudekit-skills",
-    "branch": "main",
-    "enabled": true
-  },
-  "czlonkowski/n8n-skills": {
-    "owner": "czlonkowski",
-    "name": "n8n-skills",
-    "branch": "main",
-    "enabled": true
-  },
-  "lackeyjb/playwright-skill": {
-    "owner": "lackeyjb",
-    "name": "playwright-skill",
-    "branch": "main",
-    "enabled": true
-  },
-  "BrownFineSecurity/iothackbot": {
-    "owner": "BrownFineSecurity",
-    "name": "iothackbot",
-    "branch": "master",
-    "enabled": true
-  },
-  "zechenzhangAGI/AI-research-SKILLs": {
-    "owner": "zechenzhangAGI",
-    "name": "AI-research-SKILLs",
-    "branch": "main",
-    "enabled": true
-  },
-  "OneWave-AI/claude-skills": {
-    "owner": "OneWave-AI",
-    "name": "claude-skills",
-    "branch": "main",
-    "enabled": true
-  },
-  "antvis/Infographic": {
-    "owner": "antvis",
-    "name": "Infographic",
-    "branch": "master",
-    "skillsPath": "./",
-    "enabled": true
-  },
-  "anthropics/claude-code": {
-    "owner": "anthropics",
-    "name": "claude-code",
-    "branch": "main",
-    "enabled": true
-  },
-  "weipanux/seo-geo-blog-writer": {
-    "owner": "weipanux",
-    "name": "seo-geo-blog-writer",
-    "branch": "main",
-    "enabled": true
-  },
-  "Prat011/awesome-llm-skills": {
-    "owner": "Prat011",
-    "name": "awesome-llm-skills",
-    "branch": "main",
-    "enabled": true
-  },
-  "luoyuctl/agenttrace": {
-    "owner": "luoyuctl",
-    "name": "agenttrace",
-    "branch": "master",
-    "skillsPath": "skills",
-    "enabled": true
-  },
-  "bear2u/my-skills": {
-    "owner": "bear2u",
-    "name": "my-skills",
-    "branch": "main",
-    "enabled": true
-  },
-  "huggingface/skills": {
-    "owner": "huggingface",
-    "name": "skills",
-    "branch": "main",
-    "enabled": true
-  },
-  "CloudAI-X/claude-workflow-v2": {
-    "owner": "CloudAI-X",
-    "name": "claude-workflow-v2",
-    "branch": "main",
-    "enabled": true
-  },
-  "OthmanAdi/planning-with-files": {
-    "owner": "OthmanAdi",
-    "name": "planning-with-files",
-    "branch": "main",
-    "enabled": true
-  },
-  "kepano/obsidian-skills": {
-    "owner": "kepano",
-    "name": "obsidian-skills",
-    "branch": "main",
-    "enabled": true
-  },
-  "GBSOSS/skill-from-masters": {
-    "owner": "GBSOSS",
-    "name": "skill-from-masters",
-    "branch": "main",
-    "skillsPath": "./skill-from-masters",
-    "enabled": true
-  },
-  "iamzhihuix/happy-claude-skills": {
-    "owner": "iamzhihuix",
-    "name": "happy-claude-skills",
-    "branch": "main",
-    "enabled": true
-  },
-  "anthropics/claude-plugins-official": {
-    "owner": "anthropics",
-    "name": "claude-plugins-official",
-    "branch": "main",
-    "enabled": true
-  },
-  "nextlevelbuilder/ui-ux-pro-max-skill": {
-    "owner": "nextlevelbuilder",
-    "name": "ui-ux-pro-max-skill",
-    "branch": "main",
-    "enabled": true
-  },
-  "moltbot/skills": {
-    "owner": "moltbot",
-    "name": "skills",
-    "branch": "main",
-    "skillsPath": "/skills",
-    "enabled": true
-  },
-  "takechanman1228/claude-ecom": {
-    "owner": "takechanman1228",
-    "name": "claude-ecom",
-    "branch": "main",
-    "skillsPath": "/skills",
-    "enabled": true
-  },
-  "inhouseseo/superseo-skills": {
-    "owner": "inhouseseo",
-    "name": "superseo-skills",
-    "branch": "main",
-    "skillsPath": "/skills",
-    "enabled": true
-  },
-  "salespeak-ai/buyer-eval-skill": {
-    "owner": "salespeak-ai",
-    "name": "buyer-eval-skill",
-    "branch": "main",
-    "enabled": true
-  },
-  "jaimeschwarz/brandvoice": {
-    "owner": "jaimeschwarz",
-    "name": "brandvoice",
-    "branch": "main",
-    "enabled": true
-  },
-  "shitianfang/coware-skills": {
-    "owner": "shitianfang",
-    "name": "coware-skills",
-    "branch": "main",
-    "skillsPath": "/coware",
-    "enabled": true
-  },
-  "ZeroPointRepo/youtube-skills": {
-    "owner": "ZeroPointRepo",
-    "name": "youtube-skills",
-    "branch": "main",
-    "skillsPath": "/skills",
-    "enabled": true
-  },
-  "toroleapinc/claude-brain": {
-    "owner": "toroleapinc",
-    "name": "claude-brain",
-    "branch": "main",
-    "skillsPath": "/skills",
-    "enabled": true
-  },
-  "Xquik-dev/x-twitter-scraper": {
-    "owner": "Xquik-dev",
-    "name": "x-twitter-scraper",
-    "branch": "master",
-    "skillsPath": "/skills",
-    "enabled": true
-  },
-  "Xquik-dev/tweetclaw": {
-    "owner": "Xquik-dev",
-    "name": "tweetclaw",
-    "branch": "master",
-    "skillsPath": "/skills",
-    "enabled": true
-  },
-  "sinaayyy/claude-obsidian-reporter": {
-    "owner": "sinaayyy",
-    "name": "claude-obsidian-reporter",
-    "branch": "main",
-    "skillsPath": ".claude/skills",
-    "enabled": true
-  },
-  "connerlambden/bgpt-mcp": {
-    "owner": "connerlambden",
-    "name": "bgpt-mcp",
-    "branch": "main",
-    "skillsPath": "/skills",
-    "enabled": true
-  },
-  "ejentum/ejentum-mcp": {
-    "owner": "ejentum",
-    "name": "ejentum-mcp",
-    "branch": "main",
-    "skillsPath": "skills",
-    "enabled": true
-  },
-  "voidborne-d/master-skill": {
-    "owner": "voidborne-d",
-    "name": "master-skill",
-    "branch": "main",
-    "enabled": true
-  },
-  "takechanman1228/claude-persona": {
-    "owner": "takechanman1228",
-    "name": "claude-persona",
-    "branch": "main",
-    "skillsPath": "/skills",
-    "enabled": true
-  },
-  "swarmclawai/andrej-karpathy-skills": {
-    "owner": "swarmclawai",
-    "name": "andrej-karpathy-skills",
-    "branch": "main",
-    "skillsPath": "skills",
-    "enabled": true
-  },
-  "epiral/bb-browser": {
-    "owner": "epiral",
-    "name": "bb-browser",
-    "branch": "main",
-    "skillsPath": "skills",
-    "enabled": true
-  },
-  "yehudalevy-collab/polis-protocol": {
-    "owner": "yehudalevy-collab",
-    "name": "polis-protocol",
-    "branch": "main",
-    "enabled": true
-  },
-  "mturac/recsys-pipeline-architect": {
-    "owner": "mturac",
-    "name": "recsys-pipeline-architect",
-    "branch": "main",
-    "enabled": true
-  },
-  "Sequenzy/skills": {
-    "owner": "Sequenzy",
-    "name": "skills",
-    "branch": "main",
-    "skillsPath": "skills",
-    "enabled": true
-  },
-  "bin1874/before-you-build-skill": {
-    "owner": "bin1874",
-    "name": "before-you-build-skill",
-    "branch": "main",
-    "enabled": true
-  },
-  "Ericyoung-183/alpha-insights": {
-    "owner": "Ericyoung-183",
-    "name": "alpha-insights",
-    "branch": "main",
-    "enabled": true
-  }
+    "ndesv21/socialclaw": {
+        "owner": "ndesv21",
+        "name": "socialclaw",
+        "branch": "main",
+        "enabled": true
+    },
+    "K-Dense-AI/claude-scientific-skills": {
+        "owner": "K-Dense-AI",
+        "name": "claude-scientific-skills",
+        "branch": "main",
+        "enabled": true
+    },
+    "Jeffallan/claude-skills": {
+        "owner": "Jeffallan",
+        "name": "claude-skills",
+        "branch": "main",
+        "enabled": true
+    },
+    "ComposioHQ/awesome-claude-skills": {
+        "owner": "ComposioHQ",
+        "name": "awesome-claude-skills",
+        "branch": "main",
+        "enabled": true
+    },
+    "PleasePrompto/notebooklm-skill": {
+        "owner": "PleasePrompto",
+        "name": "notebooklm-skill",
+        "branch": "main",
+        "enabled": true
+    },
+    "davila7/claude-code-templates": {
+        "owner": "davila7",
+        "name": "claude-code-templates",
+        "branch": "main",
+        "enabled": true
+    },
+    "MicrosoftDocs/mcp": {
+        "owner": "MicrosoftDocs",
+        "name": "mcp",
+        "branch": "main",
+        "enabled": true
+    },
+    "daymade/claude-code-skills": {
+        "owner": "daymade",
+        "name": "claude-code-skills",
+        "branch": "main",
+        "enabled": true
+    },
+    "bradleygolden/claude-marketplace-elixir": {
+        "owner": "bradleygolden",
+        "name": "claude-marketplace-elixir",
+        "branch": "main",
+        "enabled": true
+    },
+    "athola/claude-night-market": {
+        "owner": "athola",
+        "name": "claude-night-market",
+        "branch": "main",
+        "enabled": true
+    },
+    "adrianpuiu/claude-skills-marketplace": {
+        "owner": "adrianpuiu",
+        "name": "claude-skills-marketplace",
+        "branch": "main",
+        "enabled": true
+    },
+    "mrgoonie/claudekit-skills": {
+        "owner": "mrgoonie",
+        "name": "claudekit-skills",
+        "branch": "main",
+        "enabled": true
+    },
+    "czlonkowski/n8n-skills": {
+        "owner": "czlonkowski",
+        "name": "n8n-skills",
+        "branch": "main",
+        "enabled": true
+    },
+    "lackeyjb/playwright-skill": {
+        "owner": "lackeyjb",
+        "name": "playwright-skill",
+        "branch": "main",
+        "enabled": true
+    },
+    "BrownFineSecurity/iothackbot": {
+        "owner": "BrownFineSecurity",
+        "name": "iothackbot",
+        "branch": "master",
+        "enabled": true
+    },
+    "zechenzhangAGI/AI-research-SKILLs": {
+        "owner": "zechenzhangAGI",
+        "name": "AI-research-SKILLs",
+        "branch": "main",
+        "enabled": true
+    },
+    "OneWave-AI/claude-skills": {
+        "owner": "OneWave-AI",
+        "name": "claude-skills",
+        "branch": "main",
+        "enabled": true
+    },
+    "antvis/Infographic": {
+        "owner": "antvis",
+        "name": "Infographic",
+        "branch": "master",
+        "skillsPath": "./",
+        "enabled": true
+    },
+    "anthropics/claude-code": {
+        "owner": "anthropics",
+        "name": "claude-code",
+        "branch": "main",
+        "enabled": true
+    },
+    "weipanux/seo-geo-blog-writer": {
+        "owner": "weipanux",
+        "name": "seo-geo-blog-writer",
+        "branch": "main",
+        "enabled": true
+    },
+    "Prat011/awesome-llm-skills": {
+        "owner": "Prat011",
+        "name": "awesome-llm-skills",
+        "branch": "main",
+        "enabled": true
+    },
+    "luoyuctl/agenttrace": {
+        "owner": "luoyuctl",
+        "name": "agenttrace",
+        "branch": "master",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "bear2u/my-skills": {
+        "owner": "bear2u",
+        "name": "my-skills",
+        "branch": "main",
+        "enabled": true
+    },
+    "huggingface/skills": {
+        "owner": "huggingface",
+        "name": "skills",
+        "branch": "main",
+        "enabled": true
+    },
+    "CloudAI-X/claude-workflow-v2": {
+        "owner": "CloudAI-X",
+        "name": "claude-workflow-v2",
+        "branch": "main",
+        "enabled": true
+    },
+    "OthmanAdi/planning-with-files": {
+        "owner": "OthmanAdi",
+        "name": "planning-with-files",
+        "branch": "main",
+        "enabled": true
+    },
+    "kepano/obsidian-skills": {
+        "owner": "kepano",
+        "name": "obsidian-skills",
+        "branch": "main",
+        "enabled": true
+    },
+    "GBSOSS/skill-from-masters": {
+        "owner": "GBSOSS",
+        "name": "skill-from-masters",
+        "branch": "main",
+        "skillsPath": "./skill-from-masters",
+        "enabled": true
+    },
+    "iamzhihuix/happy-claude-skills": {
+        "owner": "iamzhihuix",
+        "name": "happy-claude-skills",
+        "branch": "main",
+        "enabled": true
+    },
+    "anthropics/claude-plugins-official": {
+        "owner": "anthropics",
+        "name": "claude-plugins-official",
+        "branch": "main",
+        "enabled": true
+    },
+    "nextlevelbuilder/ui-ux-pro-max-skill": {
+        "owner": "nextlevelbuilder",
+        "name": "ui-ux-pro-max-skill",
+        "branch": "main",
+        "enabled": true
+    },
+    "moltbot/skills": {
+        "owner": "moltbot",
+        "name": "skills",
+        "branch": "main",
+        "skillsPath": "/skills",
+        "enabled": true
+    },
+    "takechanman1228/claude-ecom": {
+        "owner": "takechanman1228",
+        "name": "claude-ecom",
+        "branch": "main",
+        "skillsPath": "/skills",
+        "enabled": true
+    },
+    "inhouseseo/superseo-skills": {
+        "owner": "inhouseseo",
+        "name": "superseo-skills",
+        "branch": "main",
+        "skillsPath": "/skills",
+        "enabled": true
+    },
+    "salespeak-ai/buyer-eval-skill": {
+        "owner": "salespeak-ai",
+        "name": "buyer-eval-skill",
+        "branch": "main",
+        "enabled": true
+    },
+    "jaimeschwarz/brandvoice": {
+        "owner": "jaimeschwarz",
+        "name": "brandvoice",
+        "branch": "main",
+        "enabled": true
+    },
+    "shitianfang/coware-skills": {
+        "owner": "shitianfang",
+        "name": "coware-skills",
+        "branch": "main",
+        "skillsPath": "/coware",
+        "enabled": true
+    },
+    "ZeroPointRepo/youtube-skills": {
+        "owner": "ZeroPointRepo",
+        "name": "youtube-skills",
+        "branch": "main",
+        "skillsPath": "/skills",
+        "enabled": true
+    },
+    "toroleapinc/claude-brain": {
+        "owner": "toroleapinc",
+        "name": "claude-brain",
+        "branch": "main",
+        "skillsPath": "/skills",
+        "enabled": true
+    },
+    "Xquik-dev/x-twitter-scraper": {
+        "owner": "Xquik-dev",
+        "name": "x-twitter-scraper",
+        "branch": "master",
+        "skillsPath": "/skills",
+        "enabled": true
+    },
+    "Xquik-dev/tweetclaw": {
+        "owner": "Xquik-dev",
+        "name": "tweetclaw",
+        "branch": "master",
+        "skillsPath": "/skills",
+        "enabled": true
+    },
+    "sinaayyy/claude-obsidian-reporter": {
+        "owner": "sinaayyy",
+        "name": "claude-obsidian-reporter",
+        "branch": "main",
+        "skillsPath": ".claude/skills",
+        "enabled": true
+    },
+    "connerlambden/bgpt-mcp": {
+        "owner": "connerlambden",
+        "name": "bgpt-mcp",
+        "branch": "main",
+        "skillsPath": "/skills",
+        "enabled": true
+    },
+    "ejentum/ejentum-mcp": {
+        "owner": "ejentum",
+        "name": "ejentum-mcp",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "voidborne-d/master-skill": {
+        "owner": "voidborne-d",
+        "name": "master-skill",
+        "branch": "main",
+        "enabled": true
+    },
+    "takechanman1228/claude-persona": {
+        "owner": "takechanman1228",
+        "name": "claude-persona",
+        "branch": "main",
+        "skillsPath": "/skills",
+        "enabled": true
+    },
+    "swarmclawai/andrej-karpathy-skills": {
+        "owner": "swarmclawai",
+        "name": "andrej-karpathy-skills",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "epiral/bb-browser": {
+        "owner": "epiral",
+        "name": "bb-browser",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "yehudalevy-collab/polis-protocol": {
+        "owner": "yehudalevy-collab",
+        "name": "polis-protocol",
+        "branch": "main",
+        "enabled": true
+    },
+    "mturac/recsys-pipeline-architect": {
+        "owner": "mturac",
+        "name": "recsys-pipeline-architect",
+        "branch": "main",
+        "enabled": true
+    },
+    "Sequenzy/skills": {
+        "owner": "Sequenzy",
+        "name": "skills",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "bin1874/before-you-build-skill": {
+        "owner": "bin1874",
+        "name": "before-you-build-skill",
+        "branch": "main",
+        "enabled": true
+    },
+    "Ericyoung-183/alpha-insights": {
+        "owner": "Ericyoung-183",
+        "name": "alpha-insights",
+        "branch": "main",
+        "enabled": true
+    },
+    "thebrierfox/yield-intelligence-skill": {
+        "owner": "thebrierfox",
+        "name": "yield-intelligence-skill",
+        "branch": "main",
+        "enabled": true
+    },
+    "thebrierfox/moatmri-skill": {
+        "owner": "thebrierfox",
+        "name": "moatmri-skill",
+        "branch": "main",
+        "enabled": true
+    },
+    "thebrierfox/doc2math-skill": {
+        "owner": "thebrierfox",
+        "name": "doc2math-skill",
+        "branch": "main",
+        "enabled": true
+    }
 }
