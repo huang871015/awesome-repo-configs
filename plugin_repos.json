@@ -577,5 +577,14 @@
     "repoOwner": "Stigmavlc",
     "repoName": "claude-bridge",
     "repoBranch": "main"
+  },
+  "armoriq/armorClaude": {
+    "name": "armoriq/armorClaude",
+    "description": "ArmorIQ intent-based security enforcement for Claude Code: declared intent plans, natural-language policy rules, intent-drift blocking, optional CSRG cryptographic proofs, and central audit logging. Same model also ships for OpenAI Codex and GitHub Copilot CLI.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "armoriq",
+    "repoName": "armorClaude",
+    "repoBranch": "main"
   }
 }
