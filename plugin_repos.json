@@ -586,5 +586,14 @@
     "repoOwner": "armoriq",
     "repoName": "armorClaude",
     "repoBranch": "main"
+  },
+  "authsome": {
+    "name": "authsome",
+    "description": "Local credential broker for AI agents. Log in once via OAuth2 or API key; an encrypted local vault and loopback HTTPS proxy inject credentials into outbound provider requests so the agent's process env never holds raw secrets. 45 providers bundled.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "agentrhq",
+    "repoName": "authsome",
+    "repoBranch": "main"
   }
 }
