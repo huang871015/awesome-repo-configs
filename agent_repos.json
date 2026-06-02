@@ -62,6 +62,13 @@
     "branch": "main",
     "enabled": true
   },
+  "xmacna/funcionario-digital-agentget": {
+    "owner": "xmacna",
+    "name": "funcionario-digital-agentget",
+    "branch": "main",
+    "enabled": true,
+    "agentsPath": ".claude/agents"
+  },
   "CloudAI-X/claude-workflow-v2": {
     "owner": "CloudAI-X",
     "name": "claude-workflow-v2",
