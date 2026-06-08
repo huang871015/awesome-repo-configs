@@ -358,5 +358,11 @@
         "name": "claude-code-stock-analysis-skill",
         "branch": "main",
         "enabled": true
+    },
+    "xiwan/taste-scorer": {
+        "owner": "xiwan",
+        "name": "taste-scorer",
+        "branch": "main",
+        "enabled": true
     }
 }
