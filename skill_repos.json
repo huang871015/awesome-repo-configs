@@ -370,5 +370,12 @@
         "name": "openapi-skills",
         "branch": "main",
         "enabled": true
+    },
+    "zhangzeyu99-web/ariadne-loop": {
+        "owner": "zhangzeyu99-web",
+        "name": "ariadne-loop",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
     }
 }
