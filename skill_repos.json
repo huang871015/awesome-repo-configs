@@ -320,7 +320,7 @@
         "owner": "Sequenzy",
         "name": "skills",
         "branch": "main",
-        "skillsPath": "skills",
+        "skillsPath": "/skills",
         "enabled": true
     },
     "bin1874/before-you-build-skill": {
