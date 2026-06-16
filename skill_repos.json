@@ -277,8 +277,8 @@
         "skillsPath": "skills",
         "enabled": true
     },
-    "voidborne-d/master-skill": {
-        "owner": "voidborne-d",
+    "swaylq/master-skill": {
+        "owner": "swaylq",
         "name": "master-skill",
         "branch": "main",
         "enabled": true
