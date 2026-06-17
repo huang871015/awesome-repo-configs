@@ -249,6 +249,13 @@
         "skillsPath": "/skills",
         "enabled": true
     },
+    "Xquik-dev/hermes-tweet": {
+        "owner": "Xquik-dev",
+        "name": "hermes-tweet",
+        "branch": "master",
+        "skillsPath": "/skills",
+        "enabled": true
+    },
     "Xquik-dev/tweetclaw": {
         "owner": "Xquik-dev",
         "name": "tweetclaw",
