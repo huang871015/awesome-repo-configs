@@ -418,5 +418,12 @@
         "branch": "main",
         "skillsPath": "skills",
         "enabled": true
+    },
+    "aakashadesara/ctop": {
+        "owner": "aakashadesara",
+        "name": "ctop",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
     }
 }
