@@ -380,6 +380,15 @@
     "repoName": "x-twitter-scraper",
     "repoBranch": "main"
   },
+  "Xquik-dev/hermes-tweet": {
+    "name": "Xquik-dev/hermes-tweet",
+    "description": "Native Hermes Agent plugin for X/Twitter search, timeline reading, and action-gated posting.",
+    "enabled": true,
+    "type": "plugin",
+    "repoOwner": "Xquik-dev",
+    "repoName": "hermes-tweet",
+    "repoBranch": "master"
+  },
   "ammawla/encode-toolkit": {
     "name": "ammawla/encode-toolkit",
     "description": "MCP server and Claude Plugin for a full ENCODE Project genomic data and analysis toolkit — search, download, track, and analyze functional genomics experiments.",
