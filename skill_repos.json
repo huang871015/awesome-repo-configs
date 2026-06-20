@@ -23,6 +23,13 @@
         "branch": "main",
         "enabled": true
     },
+    "Necmttn/ax": {
+        "owner": "Necmttn",
+        "name": "ax",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
     "PleasePrompto/notebooklm-skill": {
         "owner": "PleasePrompto",
         "name": "notebooklm-skill",
