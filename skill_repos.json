@@ -458,5 +458,11 @@
         "branch": "main",
         "skillsPath": "skills",
         "enabled": true
+    },
+    "aguilera-ee/todo.txt-skill": {
+        "owner": "aguilera-ee",
+        "name": "todo.txt-skill",
+        "branch": "master",
+        "enabled": true
     }
 }
