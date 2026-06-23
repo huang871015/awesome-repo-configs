@@ -195,13 +195,6 @@
         "branch": "main",
         "enabled": true
     },
-    "moltbot/skills": {
-        "owner": "moltbot",
-        "name": "skills",
-        "branch": "main",
-        "skillsPath": "/skills",
-        "enabled": true
-    },
     "takechanman1228/claude-ecom": {
         "owner": "takechanman1228",
         "name": "claude-ecom",
@@ -379,30 +372,10 @@
         "branch": "main",
         "enabled": true
     },
-    "xiwan/taste-scorer": {
-        "owner": "xiwan",
-        "name": "taste-scorer",
-        "branch": "main",
-        "enabled": true
-    },
     "openapi/openapi-skills": {
         "owner": "openapi",
         "name": "openapi-skills",
         "branch": "main",
-        "enabled": true
-    },
-    "zhangzeyu99-web/ariadne-loop": {
-        "owner": "zhangzeyu99-web",
-        "name": "ariadne-loop",
-        "branch": "main",
-        "skillsPath": "skills",
-        "enabled": true
-    },
-    "mantoufan/seedance-prompts-skill": {
-        "owner": "mantoufan",
-        "name": "seedance-prompts-skill",
-        "branch": "main",
-        "skillsPath": "skills",
         "enabled": true
     },
     "alexconner-79/ill-communication": {
@@ -463,6 +436,38 @@
         "owner": "aguilera-ee",
         "name": "todo.txt-skill",
         "branch": "master",
+        "enabled": true
+    },
+    "jeremylongshore/claude-code-plugins-plus-skills": {
+        "owner": "jeremylongshore",
+        "name": "claude-code-plugins-plus-skills",
+        "branch": "main",
+        "enabled": true
+    },
+    "wshobson/agents": {
+        "owner": "wshobson",
+        "name": "agents",
+        "branch": "main",
+        "enabled": true
+    },
+    "anthropics/skills": {
+        "owner": "anthropics",
+        "name": "skills",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "obra/superpowers": {
+        "owner": "obra",
+        "name": "superpowers",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "diet103/claude-code-infrastructure-showcase": {
+        "owner": "diet103",
+        "name": "claude-code-infrastructure-showcase",
+        "branch": "main",
         "enabled": true
     }
 }
