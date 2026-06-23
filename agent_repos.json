@@ -86,5 +86,96 @@
     "name": "openpaw",
     "branch": "main",
     "enabled": true
+  },
+  "alirezarezvani/claude-skills": {
+    "owner": "alirezarezvani",
+    "name": "claude-skills",
+    "branch": "main",
+    "agentsPath": "agents",
+    "enabled": true
+  },
+  "zebbern/claude-code-guide": {
+    "owner": "zebbern",
+    "name": "claude-code-guide",
+    "branch": "main",
+    "agentsPath": "agents",
+    "enabled": true
+  },
+  "parcadei/Continuous-Claude-v3": {
+    "owner": "parcadei",
+    "name": "Continuous-Claude-v3",
+    "branch": "main",
+    "agentsPath": ".claude/agents",
+    "enabled": true
+  },
+  "rohitg00/pro-workflow": {
+    "owner": "rohitg00",
+    "name": "pro-workflow",
+    "branch": "main",
+    "agentsPath": "agents",
+    "enabled": true
+  },
+  "feiskyer/claude-code-settings": {
+    "owner": "feiskyer",
+    "name": "claude-code-settings",
+    "branch": "main",
+    "agentsPath": "agents",
+    "enabled": true
+  },
+  "pedrohcgs/claude-code-my-workflow": {
+    "owner": "pedrohcgs",
+    "name": "claude-code-my-workflow",
+    "branch": "main",
+    "agentsPath": ".claude/agents",
+    "enabled": true
+  },
+  "Weizhena/Deep-Research-skills": {
+    "owner": "Weizhena",
+    "name": "Deep-Research-skills",
+    "branch": "master",
+    "agentsPath": "agents",
+    "enabled": true
+  },
+  "sangrokjung/claude-forge": {
+    "owner": "sangrokjung",
+    "name": "claude-forge",
+    "branch": "main",
+    "agentsPath": "agents",
+    "enabled": true
+  },
+  "SethGammon/Citadel": {
+    "owner": "SethGammon",
+    "name": "Citadel",
+    "branch": "main",
+    "agentsPath": "agents",
+    "enabled": true
+  },
+  "oliver-kriska/claude-elixir-phoenix": {
+    "owner": "oliver-kriska",
+    "name": "claude-elixir-phoenix",
+    "branch": "main",
+    "agentsPath": ".claude/agents",
+    "enabled": true
+  },
+  "shanraisshan/claude-code-hooks": {
+    "owner": "shanraisshan",
+    "name": "claude-code-hooks",
+    "branch": "main",
+    "agentsPath": ".claude/agents",
+    "enabled": true
+  },
+  "boshu2/agentops": {
+    "owner": "boshu2",
+    "name": "agentops",
+    "branch": "main",
+    "agentsPath": "agents",
+    "enabled": true
+  },
+  "shanraisshan/claude-code-best-practice": {
+    "owner": "shanraisshan",
+    "name": "claude-code-best-practice",
+    "branch": "main",
+    "agentsPath": ".claude/agents",
+    "enabled": true
   }
 }

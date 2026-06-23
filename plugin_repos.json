@@ -28,7 +28,7 @@
   },
   "microsoft-docs-mcp": {
     "name": "microsoft-docs-mcp",
-    "description": "Official Microsoft Learn MCP Server – powering LLMs and AI agents with real-time, trusted Microsoft docs & code samples",
+    "description": "Official Microsoft Learn MCP Server \u2013 powering LLMs and AI agents with real-time, trusted Microsoft docs & code samples",
     "enabled": true,
     "type": "marketplace",
     "repoOwner": "MicrosoftDocs",
@@ -319,7 +319,7 @@
   },
   "Rich627/whatsapp-claude-plugin": {
     "name": "Rich627/whatsapp-claude-plugin",
-    "description": "Claude Code WhatsApp channel plugin — run AI directly from WhatsApp, voice transcription, remote tool approval, access control.",
+    "description": "Claude Code WhatsApp channel plugin \u2014 run AI directly from WhatsApp, voice transcription, remote tool approval, access control.",
     "enabled": true,
     "type": "marketplace",
     "repoOwner": "Rich627",
@@ -391,7 +391,7 @@
   },
   "ammawla/encode-toolkit": {
     "name": "ammawla/encode-toolkit",
-    "description": "MCP server and Claude Plugin for a full ENCODE Project genomic data and analysis toolkit — search, download, track, and analyze functional genomics experiments.",
+    "description": "MCP server and Claude Plugin for a full ENCODE Project genomic data and analysis toolkit \u2014 search, download, track, and analyze functional genomics experiments.",
     "enabled": true,
     "type": "marketplace",
     "repoOwner": "ammawla",
@@ -400,7 +400,7 @@
   },
   "chopratejas/vitals": {
     "name": "chopratejas/vitals",
-    "description": "Codebase vital signs for Claude Code — finds hotspots, diagnoses root causes, ranks fixes by ROI.",
+    "description": "Codebase vital signs for Claude Code \u2014 finds hotspots, diagnoses root causes, ranks fixes by ROI.",
     "enabled": true,
     "type": "marketplace",
     "repoOwner": "chopratejas",
@@ -418,7 +418,7 @@
   },
   "researchaudio/voicebrief-plugin": {
     "name": "researchaudio/voicebrief-plugin",
-    "description": "Claude Code plugin — Turn any PDF into an audio lesson with AI summaries, quizzes, and voice chat tutors.",
+    "description": "Claude Code plugin \u2014 Turn any PDF into an audio lesson with AI summaries, quizzes, and voice chat tutors.",
     "enabled": true,
     "type": "marketplace",
     "repoOwner": "researchaudio",
@@ -427,7 +427,7 @@
   },
   "ArcBlock/myvibe-skills": {
     "name": "ArcBlock/myvibe-skills",
-    "description": "MyVibe Skills — AI-powered web page creation and MyVibe publishing capabilities.",
+    "description": "MyVibe Skills \u2014 AI-powered web page creation and MyVibe publishing capabilities.",
     "enabled": true,
     "type": "marketplace",
     "repoOwner": "ArcBlock",
@@ -490,7 +490,7 @@
   },
   "bentleypark/claude-code-mobile-spine": {
     "name": "bentleypark/claude-code-mobile-spine",
-    "description": "Claude Code plugin marketplace bundling mobile-spine — scaffolds a meta-repo coordinating 4 subagents (api/pm/android/ios) for mobile teams whose Android, iOS, and Backend live in 3 separate repos.",
+    "description": "Claude Code plugin marketplace bundling mobile-spine \u2014 scaffolds a meta-repo coordinating 4 subagents (api/pm/android/ios) for mobile teams whose Android, iOS, and Backend live in 3 separate repos.",
     "enabled": true,
     "type": "marketplace",
     "repoOwner": "bentleypark",
@@ -499,7 +499,7 @@
   },
   "explorium-ai/vibeprospecting-plugin": {
     "name": "vibeprospecting",
-    "description": "Vibe Prospecting plugins for Claude Code — B2B data (150M+ businesses, 800M+ professionals), lead-list building, prospect enrichment, executive discovery, and multi-step GTM workflows via the Explorium MCP.",
+    "description": "Vibe Prospecting plugins for Claude Code \u2014 B2B data (150M+ businesses, 800M+ professionals), lead-list building, prospect enrichment, executive discovery, and multi-step GTM workflows via the Explorium MCP.",
     "enabled": true,
     "type": "marketplace",
     "repoOwner": "explorium-ai",
@@ -508,7 +508,7 @@
   },
   "Marazii/research-co-pilot": {
     "name": "Marazii/research-co-pilot",
-    "description": "Comprehensive research co-pilot for Claude Code and claude.ai — 14 skills across the academic research lifecycle: literature review, methodology, ethics, data analysis, qualitative coding, manuscript drafting, replication, grants, talks, peer review, and more.",
+    "description": "Comprehensive research co-pilot for Claude Code and claude.ai \u2014 14 skills across the academic research lifecycle: literature review, methodology, ethics, data analysis, qualitative coding, manuscript drafting, replication, grants, talks, peer review, and more.",
     "enabled": true,
     "type": "marketplace",
     "repoOwner": "Marazii",
@@ -535,7 +535,7 @@
   },
   "archcore-plugins": {
     "name": "archcore-plugins",
-    "description": "Archcore plugins for AI coding agents — make your AI code with your project's architecture, rules, and decisions. Git-native context engineering across Claude Code, Cursor, and Codex.",
+    "description": "Archcore plugins for AI coding agents \u2014 make your AI code with your project's architecture, rules, and decisions. Git-native context engineering across Claude Code, Cursor, and Codex.",
     "enabled": true,
     "type": "marketplace",
     "repoOwner": "archcore-ai",
@@ -544,7 +544,7 @@
   },
   "claude-link": {
     "name": "claude-link",
-    "description": "Real-time network monitor for Claude Code statusline: shows whether your API request is uploading, waiting for first byte, streaming back, or stuck — with real HTTPS connect-time RTT alongside.",
+    "description": "Real-time network monitor for Claude Code statusline: shows whether your API request is uploading, waiting for first byte, streaming back, or stuck \u2014 with real HTTPS connect-time RTT alongside.",
     "enabled": true,
     "type": "marketplace",
     "repoOwner": "3dnow",
@@ -553,7 +553,7 @@
   },
   "harness-maker": {
     "name": "harness-maker",
-    "description": "Interview-shaped, grade-gated AI coding harness for Claude Code · Cursor · Codex. Project profiler + 10-dim interview, edit-preserving block-merge upgrades, anti-rot crawlers, worktree isolation, AI-readiness rubric with ranked improvement actions.",
+    "description": "Interview-shaped, grade-gated AI coding harness for Claude Code \u00b7 Cursor \u00b7 Codex. Project profiler + 10-dim interview, edit-preserving block-merge upgrades, anti-rot crawlers, worktree isolation, AI-readiness rubric with ranked improvement actions.",
     "enabled": true,
     "type": "marketplace",
     "repoOwner": "Ecro",
@@ -634,7 +634,7 @@
   },
   "startup-superpowers": {
     "name": "startup-superpowers",
-    "description": "Local-first startup advisor for Claude Code: competitor discovery, market research, hypothesis tracking, customer interviews, surveys, and MVP design — all as plain markdown files in your project.",
+    "description": "Local-first startup advisor for Claude Code: competitor discovery, market research, hypothesis tracking, customer interviews, surveys, and MVP design \u2014 all as plain markdown files in your project.",
     "enabled": true,
     "type": "marketplace",
     "repoOwner": "SergeiGorbatiuk",
@@ -652,7 +652,7 @@
   },
   "seedance-prompts": {
     "name": "seedance-prompts",
-    "description": "Idea→screenplay→AI-video-prompt pipeline Claude Skill/plugin for Seedance 2.0 (Doubao/Jimeng). Distills Douyin creator tutorials into cinematic-language, prompt-engineering, realism keyword libraries + a 50–100 episode short-drama screenwriting module.",
+    "description": "Idea\u2192screenplay\u2192AI-video-prompt pipeline Claude Skill/plugin for Seedance 2.0 (Doubao/Jimeng). Distills Douyin creator tutorials into cinematic-language, prompt-engineering, realism keyword libraries + a 50\u2013100 episode short-drama screenwriting module.",
     "enabled": true,
     "type": "marketplace",
     "repoOwner": "mantoufan",
@@ -670,11 +670,299 @@
   },
   "agentic-harness": {
     "name": "agentic-harness",
-    "description": "Claude Code plugin that builds, reviews, and maintains a project's agentic harness — the agents, skills, and orchestrator under .claude/. Coordinates with existing spec-driven-development systems and issue trackers instead of reinventing them, and can sync a repo-native tracker with Jira/Linear.",
+    "description": "Claude Code plugin that builds, reviews, and maintains a project's agentic harness \u2014 the agents, skills, and orchestrator under .claude/. Coordinates with existing spec-driven-development systems and issue trackers instead of reinventing them, and can sync a repo-native tracker with Jira/Linear.",
     "enabled": true,
     "type": "marketplace",
     "repoOwner": "MrBogomips",
     "repoName": "agentic-harness",
+    "repoBranch": "main"
+  },
+  "thedotmack/claude-mem": {
+    "name": "thedotmack/claude-mem",
+    "description": "Persistent context across sessions for Claude Code \u2014 captures, compresses, and re-injects session memory.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "thedotmack",
+    "repoName": "claude-mem",
+    "repoBranch": "main"
+  },
+  "Egonex-AI/Understand-Anything": {
+    "name": "Egonex-AI/Understand-Anything",
+    "description": "Interactive knowledge graphs from any codebase, packaged as a Claude Code plugin and skill set.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "Egonex-AI",
+    "repoName": "Understand-Anything",
+    "repoBranch": "main"
+  },
+  "sickn33/antigravity-awesome-skills": {
+    "name": "sickn33/antigravity-awesome-skills",
+    "description": "Installable library of 1,600+ agentic skills and plugins for Claude Code, Cursor, Codex, Gemini and more.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "sickn33",
+    "repoName": "antigravity-awesome-skills",
+    "repoBranch": "main"
+  },
+  "JimLiu/baoyu-skills": {
+    "name": "JimLiu/baoyu-skills",
+    "description": "Curated Claude Code skill marketplace from JimLiu (BaoYu).",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "JimLiu",
+    "repoName": "baoyu-skills",
+    "repoBranch": "main"
+  },
+  "phuryn/pm-skills": {
+    "name": "phuryn/pm-skills",
+    "description": "PM Skills Marketplace: 100+ agentic skills, commands and plugins covering discovery, strategy, execution and go-to-market.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "phuryn",
+    "repoName": "pm-skills",
+    "repoBranch": "main"
+  },
+  "alirezarezvani/claude-skills": {
+    "name": "alirezarezvani/claude-skills",
+    "description": "337 Claude Code skills/agents/plugins covering engineering, marketing, product, compliance, advisory and more.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "alirezarezvani",
+    "repoName": "claude-skills",
+    "repoBranch": "main"
+  },
+  "mksglu/context-mode": {
+    "name": "mksglu/context-mode",
+    "description": "Context-window optimization plugin and skills for AI coding agents \u2014 sandboxes tool output to reduce token use.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "mksglu",
+    "repoName": "context-mode",
+    "repoBranch": "main"
+  },
+  "Orchestra-Research/AI-Research-SKILLs": {
+    "name": "Orchestra-Research/AI-Research-SKILLs",
+    "description": "Open-source library of AI research and engineering skills (multimodal, post-training, optimization, distributed).",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "Orchestra-Research",
+    "repoName": "AI-Research-SKILLs",
+    "repoBranch": "main"
+  },
+  "deanpeters/Product-Manager-Skills": {
+    "name": "deanpeters/Product-Manager-Skills",
+    "description": "Product management skills framework built on battle-tested methods, for Claude Code and other agents.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "deanpeters",
+    "repoName": "Product-Manager-Skills",
+    "repoBranch": "main"
+  },
+  "davepoon/buildwithclaude": {
+    "name": "davepoon/buildwithclaude",
+    "description": "Hub of Claude Skills, Agents, Commands, Hooks, Plugins and Marketplaces.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "davepoon",
+    "repoName": "buildwithclaude",
+    "repoBranch": "main"
+  },
+  "nowork-studio/NotFair": {
+    "name": "nowork-studio/NotFair",
+    "description": "Open-source Claude Code skills for SEO, GEO, Google Ads, Meta Ads.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "nowork-studio",
+    "repoName": "NotFair",
+    "repoBranch": "main"
+  },
+  "geekjourneyx/md2wechat-skill": {
+    "name": "geekjourneyx/md2wechat-skill",
+    "description": "Markdown to WeChat CLI \u2014 40+ styling presets, AI illustration, batch publishing as a Claude skill.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "geekjourneyx",
+    "repoName": "md2wechat-skill",
+    "repoBranch": "main"
+  },
+  "worldwonderer/oh-story-claudecode": {
+    "name": "worldwonderer/oh-story-claudecode",
+    "description": "Novel / web-fiction writing skills covering scanning, outlining, drafting and cover generation.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "worldwonderer",
+    "repoName": "oh-story-claudecode",
+    "repoBranch": "main"
+  },
+  "elementalsouls/Claude-BugHunter": {
+    "name": "elementalsouls/Claude-BugHunter",
+    "description": "Bug-hunting and external red-team Claude Code skill bundle (71 skills).",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "elementalsouls",
+    "repoName": "Claude-BugHunter",
+    "repoBranch": "main"
+  },
+  "addyosmani/web-quality-skills": {
+    "name": "addyosmani/web-quality-skills",
+    "description": "Web-quality optimization skills based on Lighthouse and Core Web Vitals.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "addyosmani",
+    "repoName": "web-quality-skills",
+    "repoBranch": "main"
+  },
+  "rohitg00/pro-workflow": {
+    "name": "rohitg00/pro-workflow",
+    "description": "Self-correcting Claude Code workflow with skills, agents and plugins.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "rohitg00",
+    "repoName": "pro-workflow",
+    "repoBranch": "main"
+  },
+  "aaron-he-zhu/seo-geo-claude-skills": {
+    "name": "aaron-he-zhu/seo-geo-claude-skills",
+    "description": "20 SEO & GEO skills for Claude Code, Cursor, Codex and other AI agents.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "aaron-he-zhu",
+    "repoName": "seo-geo-claude-skills",
+    "repoBranch": "main"
+  },
+  "timescale/pg-aiguide": {
+    "name": "timescale/pg-aiguide",
+    "description": "MCP server and Claude plugin for Postgres skills and documentation.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "timescale",
+    "repoName": "pg-aiguide",
+    "repoBranch": "main"
+  },
+  "ComposioHQ/awesome-claude-plugins": {
+    "name": "ComposioHQ/awesome-claude-plugins",
+    "description": "Curated list of Claude Code plugins extending commands, agents, hooks and MCP servers.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "ComposioHQ",
+    "repoName": "awesome-claude-plugins",
+    "repoBranch": "master"
+  },
+  "feiskyer/claude-code-settings": {
+    "name": "feiskyer/claude-code-settings",
+    "description": "Claude Code settings, commands and agents bundle.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "feiskyer",
+    "repoName": "claude-code-settings",
+    "repoBranch": "main"
+  },
+  "wondelai/skills": {
+    "name": "wondelai/skills",
+    "description": "Agent skills marketplace for Claude Code and agentskills.io-compatible agents.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "wondelai",
+    "repoName": "skills",
+    "repoBranch": "main"
+  },
+  "a5c-ai/babysitter": {
+    "name": "a5c-ai/babysitter",
+    "description": "Babysitter \u2014 enforces obedience on agentic workforces and provides 2k+ skills library.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "a5c-ai",
+    "repoName": "babysitter",
+    "repoBranch": "main"
+  },
+  "activeloopai/hivemind": {
+    "name": "activeloopai/hivemind",
+    "description": "Hivemind \u2014 turns agent traces into reusable skills across agents.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "activeloopai",
+    "repoName": "hivemind",
+    "repoBranch": "main"
+  },
+  "specstoryai/getspecstory": {
+    "name": "specstoryai/getspecstory",
+    "description": "Local-first SpecStory extensions for AI IDEs and terminal agents.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "specstoryai",
+    "repoName": "getspecstory",
+    "repoBranch": "dev"
+  },
+  "sangrokjung/claude-forge": {
+    "name": "sangrokjung/claude-forge",
+    "description": "Claude-forge \u2014 bundled skills, agents and plugin marketplace from sangrokjung.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "sangrokjung",
+    "repoName": "claude-forge",
+    "repoBranch": "main"
+  },
+  "SethGammon/Citadel": {
+    "name": "SethGammon/Citadel",
+    "description": "Citadel \u2014 Claude Code skills, agents and plugin marketplace.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "SethGammon",
+    "repoName": "Citadel",
+    "repoBranch": "main"
+  },
+  "nWave-ai/nWave": {
+    "name": "nWave-ai/nWave",
+    "description": "nWave \u2014 Claude Code skills and plugin marketplace (276 skills, 125 plugins).",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "nWave-ai",
+    "repoName": "nWave",
+    "repoBranch": "main"
+  },
+  "levnikolaevich/claude-code-skills": {
+    "name": "levnikolaevich/claude-code-skills",
+    "description": "Plugin-shaped Claude Code skills marketplace (137 plugins).",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "levnikolaevich",
+    "repoName": "claude-code-skills",
+    "repoBranch": "master"
+  },
+  "oliver-kriska/claude-elixir-phoenix": {
+    "name": "oliver-kriska/claude-elixir-phoenix",
+    "description": "Elixir/Phoenix-focused Claude Code skills, agents and plugin marketplace.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "oliver-kriska",
+    "repoName": "claude-elixir-phoenix",
+    "repoBranch": "main"
+  },
+  "pegasi-ai/reins": {
+    "name": "pegasi-ai/reins",
+    "description": "Pegasi reins \u2014 guard-rails plugin and skill for Claude Code.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "pegasi-ai",
+    "repoName": "reins",
+    "repoBranch": "main"
+  },
+  "jabrena/cursor-rules-java": {
+    "name": "jabrena/cursor-rules-java",
+    "description": "Java cursor-rules ported into a Claude Code skill set (106 skills).",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "jabrena",
+    "repoName": "cursor-rules-java",
+    "repoBranch": "main"
+  },
+  "boshu2/agentops": {
+    "name": "boshu2/agentops",
+    "description": "AgentOps \u2014 Claude Code skills, agents and plugin marketplace for ops workflows.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "boshu2",
+    "repoName": "agentops",
     "repoBranch": "main"
   }
 }
