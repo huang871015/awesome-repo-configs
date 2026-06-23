@@ -331,5 +331,33 @@
     "branch": "main",
     "agentsPath": "agents",
     "enabled": true
+  },
+  "Fmarzochi/EGC": {
+    "owner": "Fmarzochi",
+    "name": "EGC",
+    "branch": "main",
+    "agentsPath": "agents",
+    "enabled": true
+  },
+  "JasonWarrenUK/goblin-mode": {
+    "owner": "JasonWarrenUK",
+    "name": "goblin-mode",
+    "branch": "main",
+    "agentsPath": "agents",
+    "enabled": true
+  },
+  "viknesh20-20/claude-code-tool-kit": {
+    "owner": "viknesh20-20",
+    "name": "claude-code-tool-kit",
+    "branch": "master",
+    "agentsPath": ".claude/agents",
+    "enabled": true
+  },
+  "wewpellex21/code-sensei": {
+    "owner": "wewpellex21",
+    "name": "code-sensei",
+    "branch": "main",
+    "agentsPath": "agents",
+    "enabled": true
   }
 }

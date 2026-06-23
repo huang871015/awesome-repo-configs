@@ -1306,5 +1306,95 @@
     "repoOwner": "yuting0624",
     "repoName": "antigravity-for-claude-code",
     "repoBranch": "master"
+  },
+  "kenryu42/cc-safety-net": {
+    "name": "kenryu42/cc-safety-net",
+    "description": "A coding agent CLI hook that acts as a safety net, catching destructive git and filesystem commands before they execute. Supports Codex, Claude Code, OpenCode, Gemini CLI, Copilot CLI, Kimi Code and Pi.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "kenryu42",
+    "repoName": "cc-safety-net",
+    "repoBranch": "main"
+  },
+  "saadshahd/moo.md": {
+    "name": "saadshahd/moo.md",
+    "description": "Stay present with AI. A Claude Code plugin that keeps you understanding what you sign to own.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "saadshahd",
+    "repoName": "moo.md",
+    "repoBranch": "main"
+  },
+  "alexei-led/cc-thingz": {
+    "name": "alexei-led/cc-thingz",
+    "description": "Battle-tested Claude/Codex/Gemini/Pi plugin marketplace \u2014 27 skills, 34 agents, 9 hooks for code review, Go/Python/TypeScript/Web dev, infrastructure ops, and spec-driven development",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "alexei-led",
+    "repoName": "cc-thingz",
+    "repoBranch": "master"
+  },
+  "getaero-io/gtm-eng-skills": {
+    "name": "getaero-io/gtm-eng-skills",
+    "description": "10 AI agent skills for Claude Code \u2014 waterfall email enrichment, TAM building, signal discovery, job change detection, and outbound automation. Powered by Deepline CLI with 28+ GTM data providers.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "getaero-io",
+    "repoName": "gtm-eng-skills",
+    "repoBranch": "main"
+  },
+  "Lifecycle-Innovations-Limited/claude-ops": {
+    "name": "Lifecycle-Innovations-Limited/claude-ops",
+    "description": "Business operating system for Claude Code \u2014 57 skills, 21 agents, smart daemon. Unified inbox (WhatsApp/Email/Slack/Telegram), autonomous PR merge, full-AWS monitoring, revenue (Stripe+RevenueCat), e-commerce (Shopify...",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "Lifecycle-Innovations-Limited",
+    "repoName": "claude-ops",
+    "repoBranch": "main"
+  },
+  "MustBeSimo/cinematic-scroll-skill": {
+    "name": "MustBeSimo/cinematic-scroll-skill",
+    "description": "Agent skill for building cinematic, scroll-driven websites from a brief: visual systems, motion storyboards, vanilla/GSAP demos, and Next.js release-page templates.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "MustBeSimo",
+    "repoName": "cinematic-scroll-skill",
+    "repoBranch": "main"
+  },
+  "VeryGoodOpenSource/very-good-claude-code-marketplace": {
+    "name": "VeryGoodOpenSource/very-good-claude-code-marketplace",
+    "description": "A curated registry of public Claude Code plugins built and maintained by Very Good Ventures.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "VeryGoodOpenSource",
+    "repoName": "very-good-claude-code-marketplace",
+    "repoBranch": "main"
+  },
+  "RadOrigin-LLC/RAD-Claude-Skills": {
+    "name": "RadOrigin-LLC/RAD-Claude-Skills",
+    "description": "Marketplace of plugins and skills for Claude Code",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "RadOrigin-LLC",
+    "repoName": "RAD-Claude-Skills",
+    "repoBranch": "main"
+  },
+  "conversiontools/agent-skills": {
+    "name": "conversiontools/agent-skills",
+    "description": "@conversiontools agent skills",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "conversiontools",
+    "repoName": "agent-skills",
+    "repoBranch": "main"
+  },
+  "mathisk2095/jko-claude-plugins": {
+    "name": "mathisk2095/jko-claude-plugins",
+    "description": "Provide Claude plugins with shared coding guidelines, review checks, and stack-specific skills to keep agents consistent across projects",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "mathisk2095",
+    "repoName": "jko-claude-plugins",
+    "repoBranch": "main"
   }
 }

@@ -1119,5 +1119,115 @@
         "branch": "main",
         "skillsPath": "skills",
         "enabled": true
+    },
+    "kenryu42/cc-safety-net": {
+        "owner": "kenryu42",
+        "name": "cc-safety-net",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "saadshahd/moo.md": {
+        "owner": "saadshahd",
+        "name": "moo.md",
+        "branch": "main",
+        "enabled": true
+    },
+    "alexei-led/cc-thingz": {
+        "owner": "alexei-led",
+        "name": "cc-thingz",
+        "branch": "master",
+        "enabled": true
+    },
+    "getaero-io/gtm-eng-skills": {
+        "owner": "getaero-io",
+        "name": "gtm-eng-skills",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "Fmarzochi/EGC": {
+        "owner": "Fmarzochi",
+        "name": "EGC",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "Lifecycle-Innovations-Limited/claude-ops": {
+        "owner": "Lifecycle-Innovations-Limited",
+        "name": "claude-ops",
+        "branch": "main",
+        "enabled": true
+    },
+    "tinh2/skills-hub-registry": {
+        "owner": "tinh2",
+        "name": "skills-hub-registry",
+        "branch": "main",
+        "enabled": true
+    },
+    "MustBeSimo/cinematic-scroll-skill": {
+        "owner": "MustBeSimo",
+        "name": "cinematic-scroll-skill",
+        "branch": "main",
+        "enabled": true
+    },
+    "JasonWarrenUK/goblin-mode": {
+        "owner": "JasonWarrenUK",
+        "name": "goblin-mode",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "viknesh20-20/claude-code-tool-kit": {
+        "owner": "viknesh20-20",
+        "name": "claude-code-tool-kit",
+        "branch": "master",
+        "skillsPath": ".claude/skills",
+        "enabled": true
+    },
+    "mrdenox109-nyx/skill-manager": {
+        "owner": "mrdenox109-nyx",
+        "name": "skill-manager",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "RadOrigin-LLC/RAD-Claude-Skills": {
+        "owner": "RadOrigin-LLC",
+        "name": "RAD-Claude-Skills",
+        "branch": "main",
+        "enabled": true
+    },
+    "conversiontools/agent-skills": {
+        "owner": "conversiontools",
+        "name": "agent-skills",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "mathisk2095/jko-claude-plugins": {
+        "owner": "mathisk2095",
+        "name": "jko-claude-plugins",
+        "branch": "main",
+        "enabled": true
+    },
+    "aaron4605/context-optimizer": {
+        "owner": "aaron4605",
+        "name": "context-optimizer",
+        "branch": "main",
+        "enabled": true
+    },
+    "habibbedawi/claude-code-tips": {
+        "owner": "habibbedawi",
+        "name": "claude-code-tips",
+        "branch": "main",
+        "enabled": true
+    },
+    "wewpellex21/code-sensei": {
+        "owner": "wewpellex21",
+        "name": "code-sensei",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
     }
 }
