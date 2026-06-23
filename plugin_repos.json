@@ -1054,5 +1054,122 @@
     "repoOwner": "xiaobei930",
     "repoName": "cc-best",
     "repoBranch": "main"
+  },
+  "7xuanlu/wenlan": {
+    "name": "7xuanlu/wenlan",
+    "description": "Local-first AI work memory that compounds: capture decisions, lessons, gotchas in flow, distill into source-backed wiki pages, recall across sessions and any MCP client (Claude Code, Codex, etc...). Plain Markdown you...",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "7xuanlu",
+    "repoName": "wenlan",
+    "repoBranch": "main"
+  },
+  "netresearch/claude-code-marketplace": {
+    "name": "netresearch/claude-code-marketplace",
+    "description": "Curated Agent Skills collection for AI-assisted development. Open standard \u2014 agentskills.io. Portable across Claude Code, Cursor, Copilot, Codex, Gemini CLI, and 30+ more agents. By Netresearch.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "netresearch",
+    "repoName": "claude-code-marketplace",
+    "repoBranch": "main"
+  },
+  "avelikiy/great_cto": {
+    "name": "avelikiy/great_cto",
+    "description": "Don't buy software. Get the work done. GreatCTO ships AI autopilots that run a whole business function \u2014 medical coding, legal docs, procurement, accounting, IT, tax \u2014 from intake to outcome. A qualified human signs o...",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "avelikiy",
+    "repoName": "great_cto",
+    "repoBranch": "main"
+  },
+  "AR6420/Hail_Hydra": {
+    "name": "AR6420/Hail_Hydra",
+    "description": "\ud83d\udc09 Hail Hydra \u2014 Multi-headed speculative execution framework for Claude Code. 10 AI agents, 3x faster, ~70% cheaper. Inspired by speculative decoding.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "AR6420",
+    "repoName": "Hail_Hydra",
+    "repoBranch": "main"
+  },
+  "wyre-technology/msp-claude-plugins": {
+    "name": "wyre-technology/msp-claude-plugins",
+    "description": "Community-driven Claude Code plugins for MSP tools (PSA, RMM, Documentation)",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "wyre-technology",
+    "repoName": "msp-claude-plugins",
+    "repoBranch": "main"
+  },
+  "kochetkov-ma/claude-brewcode": {
+    "name": "kochetkov-ma/claude-brewcode",
+    "description": "Brewcode - full-featured development platform for Claude Code: infinite focus tasks with automatic context handoff, prompt optimization, skill/agent creation, quorum code reviews, project rules management, and knowled...",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "kochetkov-ma",
+    "repoName": "claude-brewcode",
+    "repoBranch": "main"
+  },
+  "OutlineDriven/odin-claude-plugin": {
+    "name": "OutlineDriven/odin-claude-plugin",
+    "description": "Outline-Driven Development for Claude Code - 46 agents, 25+ skills, diagram-first methodology, AST-based editing, atomic commits.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "OutlineDriven",
+    "repoName": "odin-claude-plugin",
+    "repoBranch": "main"
+  },
+  "anipotts/claude-code-tips": {
+    "name": "anipotts/claude-code-tips",
+    "description": "practical patterns for agentic coding: hooks, agents, automation. built from hundreds of claude code sessions",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "anipotts",
+    "repoName": "claude-code-tips",
+    "repoBranch": "main"
+  },
+  "dvcdsys/code-index": {
+    "name": "dvcdsys/code-index",
+    "description": "Semantic code search powered by embeddings. CLI, web dashboard, and AI-agent tooling \u2014 search code by meaning, not text. Self-hosted, Go server with embedded llama.cpp.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "dvcdsys",
+    "repoName": "code-index",
+    "repoBranch": "main"
+  },
+  "powersync-ja/agent-skills": {
+    "name": "powersync-ja/agent-skills",
+    "description": "Official agent skills for PowerSync",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "powersync-ja",
+    "repoName": "agent-skills",
+    "repoBranch": "main"
+  },
+  "joaquimscosta/arkhe-claude-plugins": {
+    "name": "joaquimscosta/arkhe-claude-plugins",
+    "description": "Supercharge Claude Code with 109 specialized components \u2014 22 agents, 32 commands, 55 skills across 13 modular plugins. Deep reasoning, autonomous dev loops, DDD architecture, design system enforcement, git automation,...",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "joaquimscosta",
+    "repoName": "arkhe-claude-plugins",
+    "repoBranch": "main"
+  },
+  "panbanda/omen": {
+    "name": "panbanda/omen",
+    "description": "Code intelligence for AI agents. Complexity, hotspots, and tech debt analysis over MCP.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "panbanda",
+    "repoName": "omen",
+    "repoBranch": "main"
+  },
+  "coalesce-labs/catalyst": {
+    "name": "coalesce-labs/catalyst",
+    "description": "Token-efficient Claude Code workspace with parallel agents and persistent memory. Research \u2192 Plan \u2192 Implement \u2192   Validate workflow.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "coalesce-labs",
+    "repoName": "catalyst",
+    "repoBranch": "main"
   }
 }

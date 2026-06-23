@@ -226,5 +226,33 @@
     "branch": "main",
     "agentsPath": "agents",
     "enabled": true
+  },
+  "7xuanlu/wenlan": {
+    "owner": "7xuanlu",
+    "name": "wenlan",
+    "branch": "main",
+    "agentsPath": ".claude/agents",
+    "enabled": true
+  },
+  "avelikiy/great_cto": {
+    "owner": "avelikiy",
+    "name": "great_cto",
+    "branch": "main",
+    "agentsPath": "agents",
+    "enabled": true
+  },
+  "AR6420/Hail_Hydra": {
+    "owner": "AR6420",
+    "name": "Hail_Hydra",
+    "branch": "main",
+    "agentsPath": "agents",
+    "enabled": true
+  },
+  "joaquimscosta/arkhe-claude-plugins": {
+    "owner": "joaquimscosta",
+    "name": "arkhe-claude-plugins",
+    "branch": "main",
+    "agentsPath": ".claude/agents",
+    "enabled": true
   }
 }

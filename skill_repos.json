@@ -900,5 +900,93 @@
         "branch": "main",
         "skillsPath": "skills",
         "enabled": true
+    },
+    "7xuanlu/wenlan": {
+        "owner": "7xuanlu",
+        "name": "wenlan",
+        "branch": "main",
+        "enabled": true
+    },
+    "avelikiy/great_cto": {
+        "owner": "avelikiy",
+        "name": "great_cto",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "AR6420/Hail_Hydra": {
+        "owner": "AR6420",
+        "name": "Hail_Hydra",
+        "branch": "main",
+        "enabled": true
+    },
+    "keysersoose/claude-agent-builder": {
+        "owner": "keysersoose",
+        "name": "claude-agent-builder",
+        "branch": "main",
+        "enabled": true
+    },
+    "wyre-technology/msp-claude-plugins": {
+        "owner": "wyre-technology",
+        "name": "msp-claude-plugins",
+        "branch": "main",
+        "enabled": true
+    },
+    "kochetkov-ma/claude-brewcode": {
+        "owner": "kochetkov-ma",
+        "name": "claude-brewcode",
+        "branch": "main",
+        "enabled": true
+    },
+    "OutlineDriven/odin-claude-plugin": {
+        "owner": "OutlineDriven",
+        "name": "odin-claude-plugin",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "anipotts/claude-code-tips": {
+        "owner": "anipotts",
+        "name": "claude-code-tips",
+        "branch": "main",
+        "enabled": true
+    },
+    "project-nomos/nomos": {
+        "owner": "project-nomos",
+        "name": "nomos",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "dvcdsys/code-index": {
+        "owner": "dvcdsys",
+        "name": "code-index",
+        "branch": "main",
+        "enabled": true
+    },
+    "powersync-ja/agent-skills": {
+        "owner": "powersync-ja",
+        "name": "agent-skills",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "joaquimscosta/arkhe-claude-plugins": {
+        "owner": "joaquimscosta",
+        "name": "arkhe-claude-plugins",
+        "branch": "main",
+        "enabled": true
+    },
+    "panbanda/omen": {
+        "owner": "panbanda",
+        "name": "omen",
+        "branch": "main",
+        "enabled": true
+    },
+    "coalesce-labs/catalyst": {
+        "owner": "coalesce-labs",
+        "name": "catalyst",
+        "branch": "main",
+        "enabled": true
     }
 }
