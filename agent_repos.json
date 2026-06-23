@@ -177,5 +177,54 @@
     "branch": "main",
     "agentsPath": ".claude/agents",
     "enabled": true
+  },
+  "syahiidkamil/Software-Engineer-AI-Agent-Atlas": {
+    "owner": "syahiidkamil",
+    "name": "Software-Engineer-AI-Agent-Atlas",
+    "branch": "main",
+    "agentsPath": ".claude/agents",
+    "enabled": true
+  },
+  "alirezarezvani/claude-cto-team": {
+    "owner": "alirezarezvani",
+    "name": "claude-cto-team",
+    "branch": "main",
+    "agentsPath": "agents",
+    "enabled": true
+  },
+  "tony/claude-code-riper-5": {
+    "owner": "tony",
+    "name": "claude-code-riper-5",
+    "branch": "main",
+    "agentsPath": ".claude/agents",
+    "enabled": true
+  },
+  "solanabr/solana-ai-kit": {
+    "owner": "solanabr",
+    "name": "solana-ai-kit",
+    "branch": "main",
+    "agentsPath": ".claude/agents",
+    "enabled": true
+  },
+  "thepushkarp/cc-gemini-plugin": {
+    "owner": "thepushkarp",
+    "name": "cc-gemini-plugin",
+    "branch": "main",
+    "agentsPath": "agents",
+    "enabled": true
+  },
+  "gtapps/claude-code-hermit": {
+    "owner": "gtapps",
+    "name": "claude-code-hermit",
+    "branch": "main",
+    "agentsPath": ".claude/agents",
+    "enabled": true
+  },
+  "xiaobei930/cc-best": {
+    "owner": "xiaobei930",
+    "name": "cc-best",
+    "branch": "main",
+    "agentsPath": "agents",
+    "enabled": true
   }
 }

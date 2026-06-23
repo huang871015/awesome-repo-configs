@@ -964,5 +964,95 @@
     "repoOwner": "boshu2",
     "repoName": "agentops",
     "repoBranch": "main"
+  },
+  "DietrichGebert/ponytail": {
+    "name": "DietrichGebert/ponytail",
+    "description": "Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "DietrichGebert",
+    "repoName": "ponytail",
+    "repoBranch": "main"
+  },
+  "Klotzkette/claude-fuer-deutsches-recht": {
+    "name": "Klotzkette/claude-fuer-deutsches-recht",
+    "description": "\u26a0\ufe0f Experimentelle Skill-Sammlung f\u00fcr deutsches Recht (Arbeits-, Gesellschafts-, Insolvenz-, Datenschutz-, Prozessrecht u.a.) \u2013 inzwischen verbessert und im Alltag getestet, aber weiterhin Experiment. Bitte selber ausp...",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "Klotzkette",
+    "repoName": "claude-fuer-deutsches-recht",
+    "repoBranch": "main"
+  },
+  "alirezarezvani/ClaudeForge": {
+    "name": "alirezarezvani/ClaudeForge",
+    "description": "A CLAUDE.md Generator and Maintenance tool for for Claude Code to create high-quality CLAUDE.md instruction files \u2014 aligned with Anthropic\u2019s best practices for Claude Code.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "alirezarezvani",
+    "repoName": "ClaudeForge",
+    "repoBranch": "dev"
+  },
+  "modu-ai/cowork-plugins": {
+    "name": "modu-ai/cowork-plugins",
+    "description": "\ubaa8\ub450\uc758 AI (MoAI) \u2014 Claude Cowork & Claude Code \ud55c\uad6d \uc2e4\ubb34 \ub3c4\uba54\uc778 AI \ud558\ub124\uc2a4\u00b7\ud50c\ub7ec\uadf8\uc778 \ub9c8\ucf13\ud50c\ub808\uc774\uc2a4. \uc0ac\uc5c5\uacc4\ud68d\uc11c\u00b7\uc138\ubb34\u00b7\ubc95\ub960\u00b7HR\u00b7\ub9c8\ucf00\ud305\u00b7\ucee4\uba38\uc2a4\u00b7BI\u00b7\ucf58\ud150\uce20 \ub3c4\uba54\uc778 \uc2a4\ud0ac\u00b7\uc5d0\uc774\uc804\ud2b8\u00b7\uc6cc\ud06c\ud50c\ub85c\uc6b0. Korean B2B + office docs (HWPX/DOCX/XLSX/PPTX/PDF) + AI media (image/video/voice). AI-slop \uac80\uc218...",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "modu-ai",
+    "repoName": "cowork-plugins",
+    "repoBranch": "main"
+  },
+  "alirezarezvani/claude-cto-team": {
+    "name": "alirezarezvani/claude-cto-team",
+    "description": "Your personal CTO Team for Claude Code . These Subagents will help you challenging yourself while you plan and execute.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "alirezarezvani",
+    "repoName": "claude-cto-team",
+    "repoBranch": "main"
+  },
+  "solanabr/solana-ai-kit": {
+    "name": "solanabr/solana-ai-kit",
+    "description": "Claude Code / Codex / AI configs for the expert Solana builder. CLAUDE.md, agents, commands, hooks, rules, skills and settings across Web, Anchor, Pinnochio, Unity, Mobile, security and more.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "solanabr",
+    "repoName": "solana-ai-kit",
+    "repoBranch": "main"
+  },
+  "jmagar/unraid-mcp": {
+    "name": "jmagar/unraid-mcp",
+    "description": "Query, monitor, and manage Unraid servers via GraphQL API through MCP tools. Supports system info, Docker, VMs, array/parity, notifications, plugins, rclone, and live telemetry.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "jmagar",
+    "repoName": "unraid-mcp",
+    "repoBranch": "main"
+  },
+  "thepushkarp/cc-gemini-plugin": {
+    "name": "thepushkarp/cc-gemini-plugin",
+    "description": "Gemini CLI integration for Claude Code and Codex.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "thepushkarp",
+    "repoName": "cc-gemini-plugin",
+    "repoBranch": "main"
+  },
+  "gtapps/claude-code-hermit": {
+    "name": "gtapps/claude-code-hermit",
+    "description": "Turn Claude Code into an Always-on AI assistant",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "gtapps",
+    "repoName": "claude-code-hermit",
+    "repoBranch": "main"
+  },
+  "xiaobei930/cc-best": {
+    "name": "xiaobei930/cc-best",
+    "description": "\ud83c\udfad cc-best: Turn Claude Code into a full dev team \u2014 PM\u2192Lead\u2192Dev\u2192QA autonomous workflow. 44 commands \u00b7 19 skills \u00b7 8 agents \u00b7 43 rules \u00b7 30 hooks \u00b7 auto-learning pipeline. | \u4e00\u4e2a\u63d2\u4ef6\uff0c\u5b8c\u6574\u5f00\u53d1\u56e2\u961f\u3002",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "xiaobei930",
+    "repoName": "cc-best",
+    "repoBranch": "main"
   }
 }

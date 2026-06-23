@@ -809,5 +809,96 @@
         "branch": "main",
         "skillsPath": "skills",
         "enabled": true
+    },
+    "DietrichGebert/ponytail": {
+        "owner": "DietrichGebert",
+        "name": "ponytail",
+        "branch": "main",
+        "enabled": true
+    },
+    "Klotzkette/claude-fuer-deutsches-recht": {
+        "owner": "Klotzkette",
+        "name": "claude-fuer-deutsches-recht",
+        "branch": "main",
+        "enabled": true
+    },
+    "alirezarezvani/ClaudeForge": {
+        "owner": "alirezarezvani",
+        "name": "ClaudeForge",
+        "branch": "dev",
+        "enabled": true
+    },
+    "syahiidkamil/Software-Engineer-AI-Agent-Atlas": {
+        "owner": "syahiidkamil",
+        "name": "Software-Engineer-AI-Agent-Atlas",
+        "branch": "main",
+        "skillsPath": ".claude/skills",
+        "enabled": true
+    },
+    "modu-ai/cowork-plugins": {
+        "owner": "modu-ai",
+        "name": "cowork-plugins",
+        "branch": "main",
+        "enabled": true
+    },
+    "vast-ai/vast-cli": {
+        "owner": "vast-ai",
+        "name": "vast-cli",
+        "branch": "master",
+        "enabled": true
+    },
+    "OSideMedia/higgsfield-ai-prompt-skill": {
+        "owner": "OSideMedia",
+        "name": "higgsfield-ai-prompt-skill",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "alirezarezvani/claude-cto-team": {
+        "owner": "alirezarezvani",
+        "name": "claude-cto-team",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "solanabr/solana-ai-kit": {
+        "owner": "solanabr",
+        "name": "solana-ai-kit",
+        "branch": "main",
+        "skillsPath": ".claude/skills",
+        "enabled": true
+    },
+    "jmagar/unraid-mcp": {
+        "owner": "jmagar",
+        "name": "unraid-mcp",
+        "branch": "main",
+        "enabled": true
+    },
+    "Tibsfox/gsd-skill-creator": {
+        "owner": "Tibsfox",
+        "name": "gsd-skill-creator",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "thepushkarp/cc-gemini-plugin": {
+        "owner": "thepushkarp",
+        "name": "cc-gemini-plugin",
+        "branch": "main",
+        "skillsPath": "./",
+        "enabled": true
+    },
+    "gtapps/claude-code-hermit": {
+        "owner": "gtapps",
+        "name": "claude-code-hermit",
+        "branch": "main",
+        "enabled": true
+    },
+    "xiaobei930/cc-best": {
+        "owner": "xiaobei930",
+        "name": "cc-best",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
     }
 }

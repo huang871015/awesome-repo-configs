@@ -1,0 +1,8 @@
+# Repos to exclude from auto-discovery.
+#
+# Format: one `owner/name` per line, case-insensitive. `#` starts a comment.
+# Add a repo here if it keeps showing up in search results but is spam,
+# abandoned, off-topic, or otherwise should never be auto-added.
+#
+# Example:
+#   some-spammer/claude-skill-xyz   # auto-generated junk

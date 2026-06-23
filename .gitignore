@@ -1,2 +1,3 @@
 __pycache__/
 *.py[cod]
+scripts/discovery_last_report.json
