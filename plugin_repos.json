@@ -1207,5 +1207,95 @@
     "repoOwner": "MarcosNahuel",
     "repoName": "antigravity-plugin-cc",
     "repoBranch": "main"
+  },
+  "marmbiz/humanizer-de": {
+    "name": "marmbiz/humanizer-de",
+    "description": "Beliebt und kostenlos Humanizer f\u00fcr deutsche Texte \u2013 erkennt und entfernt KI-Schreibmuster (66 Muster in 10 Kategorien). Deterministische Linter, 5-Pass-Workflow, als Claude-Code-Plugin installierbar. Hervorgegangen a...",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "marmbiz",
+    "repoName": "humanizer-de",
+    "repoBranch": "main"
+  },
+  "DollarDill/beads-superpowers": {
+    "name": "DollarDill/beads-superpowers",
+    "description": "Beads + Superpowers - An agentic skills framework & software development methodology that works.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "DollarDill",
+    "repoName": "beads-superpowers",
+    "repoBranch": "main"
+  },
+  "xbim08/awesome-claude-code-plugins": {
+    "name": "xbim08/awesome-claude-code-plugins",
+    "description": "\u2699\ufe0f Explore a curated collection of plugins for Claude Code, enhancing your workflow with commands, subagents, servers, and automation hooks.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "xbim08",
+    "repoName": "awesome-claude-code-plugins",
+    "repoBranch": "main"
+  },
+  "MSApps-Mobile/claude-plugins": {
+    "name": "MSApps-Mobile/claude-plugins",
+    "description": "29 free, open-source plugins for Claude Code & Cowork \u2014 Google Drive, WhatsApp, YouTube, WordPress, Apollo & more. Built on the SOSA\u2122 security framework.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "MSApps-Mobile",
+    "repoName": "claude-plugins",
+    "repoBranch": "main"
+  },
+  "luiseiman/dotforge": {
+    "name": "luiseiman/dotforge",
+    "description": "Configuration governance for Claude Code. Bootstrap, audit, sync, and evolve .claude/ across projects.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "luiseiman",
+    "repoName": "dotforge",
+    "repoBranch": "main"
+  },
+  "OdinMB/ops-workflow": {
+    "name": "OdinMB/ops-workflow",
+    "description": "Structured non-code project and knowledge management for Claude Code. (Before Karpathy made this fashionable...)",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "OdinMB",
+    "repoName": "ops-workflow",
+    "repoBranch": "main"
+  },
+  "naimkatiman/continuous-improvement": {
+    "name": "naimkatiman/continuous-improvement",
+    "description": "Agents that gets sharper every session",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "naimkatiman",
+    "repoName": "continuous-improvement",
+    "repoBranch": "main"
+  },
+  "codearranger/claude-legal": {
+    "name": "codearranger/claude-legal",
+    "description": "Pro-se / civil-practice drafting plugins for Claude Code: pleadings, motions, and orders for U.S. states + federal law.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "codearranger",
+    "repoName": "claude-legal",
+    "repoBranch": "main"
+  },
+  "arome3/code-to-content": {
+    "name": "arome3/code-to-content",
+    "description": "Claude Code skill that transforms codebases into developer content. 5-phase gated workflow, 3 specialized agents, 13 slash commands. Generate blog posts, tutorials, Twitter threads, LinkedIn posts, READMEs, newsletter...",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "arome3",
+    "repoName": "code-to-content",
+    "repoBranch": "main"
+  },
+  "mcpads/create-retro-game-kr-patch": {
+    "name": "mcpads/create-retro-game-kr-patch",
+    "description": "\ub808\ud2b8\ub85c \uac8c\uc784 \ud55c\uae00 \ud328\uce58 \uc81c\uc791 \uc804 \ud30c\uc774\ud504\ub77c\uc778 Claude Code \uc2a4\ud0ac \u00b7 Claude Code skill for end-to-end Korean (Hangul) fan-translation patches for retro games",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "mcpads",
+    "repoName": "create-retro-game-kr-patch",
+    "repoBranch": "main"
   }
 }

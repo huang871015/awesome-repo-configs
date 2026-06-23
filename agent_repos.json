@@ -275,5 +275,61 @@
     "branch": "main",
     "agentsPath": ".claude/agents",
     "enabled": true
+  },
+  "wrg32786/operator-kit": {
+    "owner": "wrg32786",
+    "name": "operator-kit",
+    "branch": "main",
+    "agentsPath": "agents",
+    "enabled": true
+  },
+  "memyselfandm/cconami": {
+    "owner": "memyselfandm",
+    "name": "cconami",
+    "branch": "main",
+    "agentsPath": ".claude/agents",
+    "enabled": true
+  },
+  "rhowardstone/Claude-Code-Scientist": {
+    "owner": "rhowardstone",
+    "name": "Claude-Code-Scientist",
+    "branch": "main",
+    "agentsPath": ".claude/agents",
+    "enabled": true
+  },
+  "nonlinear-xyz/factory-kit": {
+    "owner": "nonlinear-xyz",
+    "name": "factory-kit",
+    "branch": "main",
+    "agentsPath": "agents",
+    "enabled": true
+  },
+  "luiseiman/dotforge": {
+    "owner": "luiseiman",
+    "name": "dotforge",
+    "branch": "main",
+    "agentsPath": "agents",
+    "enabled": true
+  },
+  "OdinMB/ops-workflow": {
+    "owner": "OdinMB",
+    "name": "ops-workflow",
+    "branch": "main",
+    "agentsPath": "agents",
+    "enabled": true
+  },
+  "naimkatiman/continuous-improvement": {
+    "owner": "naimkatiman",
+    "name": "continuous-improvement",
+    "branch": "main",
+    "agentsPath": "agents",
+    "enabled": true
+  },
+  "aleksandr-chaika/flutter-clean-arch-skills": {
+    "owner": "aleksandr-chaika",
+    "name": "flutter-clean-arch-skills",
+    "branch": "main",
+    "agentsPath": "agents",
+    "enabled": true
   }
 }

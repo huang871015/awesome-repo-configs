@@ -1039,5 +1039,85 @@
         "branch": "main",
         "skillsPath": "skills",
         "enabled": true
+    },
+    "marmbiz/humanizer-de": {
+        "owner": "marmbiz",
+        "name": "humanizer-de",
+        "branch": "main",
+        "skillsPath": "./",
+        "enabled": true
+    },
+    "DollarDill/beads-superpowers": {
+        "owner": "DollarDill",
+        "name": "beads-superpowers",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "memyselfandm/cconami": {
+        "owner": "memyselfandm",
+        "name": "cconami",
+        "branch": "main",
+        "enabled": true
+    },
+    "MSApps-Mobile/claude-plugins": {
+        "owner": "MSApps-Mobile",
+        "name": "claude-plugins",
+        "branch": "main",
+        "enabled": true
+    },
+    "rhowardstone/Claude-Code-Scientist": {
+        "owner": "rhowardstone",
+        "name": "Claude-Code-Scientist",
+        "branch": "main",
+        "skillsPath": ".claude/skills",
+        "enabled": true
+    },
+    "luiseiman/dotforge": {
+        "owner": "luiseiman",
+        "name": "dotforge",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "OdinMB/ops-workflow": {
+        "owner": "OdinMB",
+        "name": "ops-workflow",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "naimkatiman/continuous-improvement": {
+        "owner": "naimkatiman",
+        "name": "continuous-improvement",
+        "branch": "main",
+        "enabled": true
+    },
+    "codearranger/claude-legal": {
+        "owner": "codearranger",
+        "name": "claude-legal",
+        "branch": "main",
+        "enabled": true
+    },
+    "arome3/code-to-content": {
+        "owner": "arome3",
+        "name": "code-to-content",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "mcpads/create-retro-game-kr-patch": {
+        "owner": "mcpads",
+        "name": "create-retro-game-kr-patch",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "aleksandr-chaika/flutter-clean-arch-skills": {
+        "owner": "aleksandr-chaika",
+        "name": "flutter-clean-arch-skills",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
     }
 }
