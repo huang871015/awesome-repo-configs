@@ -1,0 +1,109 @@
+name: Discover Claude Repos
+
+on:
+  schedule:
+    # Every 6 hours (00:17, 06:17, 12:17, 18:17 UTC). Off-zero minute to dodge
+    # GHA's top-of-the-hour queue spikes.
+    - cron: '17 */6 * * *'
+  workflow_dispatch:
+    inputs:
+      dry_run:
+        description: 'Dry-run only (do not commit/push)'
+        required: false
+        default: 'false'
+        type: choice
+        options: ['false', 'true']
+      max_new:
+        description: 'Cap on new entries this run'
+        required: false
+        default: '30'
+        type: string
+
+permissions:
+  contents: write
+
+concurrency:
+  # Don't pile up runs; if one is mid-flight, skip the next scheduled tick.
+  group: discover-repos
+  cancel-in-progress: false
+
+jobs:
+  discover:
+    runs-on: ubuntu-latest
+    timeout-minutes: 20
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+        with:
+          ref: main
+          # Need a real token (not GITHUB_TOKEN at default permissions level)
+          # to bypass branch protection on the auto-push, if it is configured.
+          # GITHUB_TOKEN works fine when no protection is set.
+          token: ${{ secrets.GITHUB_TOKEN }}
+          fetch-depth: 0
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+
+      - name: Configure git identity
+        run: |
+          git config user.name  'discover-bot'
+          git config user.email 'discover-bot@users.noreply.github.com'
+
+      - name: Run discovery (dry-run)
+        if: github.event_name == 'workflow_dispatch' && inputs.dry_run == 'true'
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          DISCOVER_MAX_NEW: ${{ inputs.max_new }}
+        run: python3 scripts/discover_repos.py
+
+      - name: Run discovery (apply + push)
+        if: github.event_name == 'schedule' || (github.event_name == 'workflow_dispatch' && inputs.dry_run != 'true')
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          DISCOVER_MAX_NEW: ${{ inputs.max_new || '30' }}
+        run: python3 scripts/discover_repos.py --apply --push
+
+      - name: Validate JSON
+        run: |
+          python3 tests/test_json_validation.py
+          python3 tests/test_pr_review_config.py
+
+      - name: Upload run report
+        if: always()
+        uses: actions/upload-artifact@v4
+        with:
+          name: discovery-report-${{ github.run_id }}
+          path: scripts/discovery_last_report.json
+          if-no-files-found: ignore
+          retention-days: 30
+
+      - name: Job summary
+        if: always()
+        run: |
+          REPORT=scripts/discovery_last_report.json
+          if [[ ! -f $REPORT ]]; then
+            echo "_No report produced._" >> "$GITHUB_STEP_SUMMARY"
+            exit 0
+          fi
+          python3 - <<'PY' >> "$GITHUB_STEP_SUMMARY"
+          import json, pathlib
+          r = json.loads(pathlib.Path("scripts/discovery_last_report.json").read_text())
+          print(f"### Discovery report — {r['timestamp']}")
+          print()
+          print(f"- examined: **{r['examined']}**")
+          print(f"- matched: **{r['matched']}**")
+          print(f"- new_total: **{r['new_total']}**")
+          print(f"- applied: `{r['applied']}`, pushed: `{r['pushed']}`")
+          print(f"- rejected: **{len(r['rejected'])}**")
+          for fn, keys in r["new_per_file"].items():
+              if not keys:
+                  continue
+              print(f"\n**{fn}** (+{len(keys)})")
+              for k in keys[:20]:
+                  print(f"- `{k}`")
+              if len(keys) > 20:
+                  print(f"- … (+{len(keys) - 20} more)")
+          PY
