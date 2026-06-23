@@ -359,5 +359,33 @@
     "branch": "main",
     "agentsPath": "agents",
     "enabled": true
+  },
+  "Kanevry/session-orchestrator": {
+    "owner": "Kanevry",
+    "name": "session-orchestrator",
+    "branch": "main",
+    "agentsPath": "agents",
+    "enabled": true
+  },
+  "SlavaSexton/comfyui-agent-kit": {
+    "owner": "SlavaSexton",
+    "name": "comfyui-agent-kit",
+    "branch": "master",
+    "agentsPath": "agents",
+    "enabled": true
+  },
+  "alo-exp/silver-bullet": {
+    "owner": "alo-exp",
+    "name": "silver-bullet",
+    "branch": "main",
+    "agentsPath": "agents",
+    "enabled": true
+  },
+  "cdeust/zetetic-team-subagents": {
+    "owner": "cdeust",
+    "name": "zetetic-team-subagents",
+    "branch": "main",
+    "agentsPath": "agents",
+    "enabled": true
   }
 }

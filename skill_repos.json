@@ -1229,5 +1229,106 @@
         "branch": "main",
         "skillsPath": "skills",
         "enabled": true
+    },
+    "zarazhangrui/frontend-slides": {
+        "owner": "zarazhangrui",
+        "name": "frontend-slides",
+        "branch": "main",
+        "skillsPath": "./",
+        "enabled": true
+    },
+    "zapier/zapier-mcp": {
+        "owner": "zapier",
+        "name": "zapier-mcp",
+        "branch": "main",
+        "enabled": true
+    },
+    "testdouble/han": {
+        "owner": "testdouble",
+        "name": "han",
+        "branch": "main",
+        "enabled": true
+    },
+    "Mann1988/awesome-claude-skills": {
+        "owner": "Mann1988",
+        "name": "awesome-claude-skills",
+        "branch": "main",
+        "enabled": true
+    },
+    "Kanevry/session-orchestrator": {
+        "owner": "Kanevry",
+        "name": "session-orchestrator",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "akaszubski/autonomous-dev": {
+        "owner": "akaszubski",
+        "name": "autonomous-dev",
+        "branch": "master",
+        "enabled": true
+    },
+    "shajith003/awesome-claude-skills": {
+        "owner": "shajith003",
+        "name": "awesome-claude-skills",
+        "branch": "main",
+        "enabled": true
+    },
+    "bendrucker/claude": {
+        "owner": "bendrucker",
+        "name": "claude",
+        "branch": "main",
+        "enabled": true
+    },
+    "SlavaSexton/comfyui-agent-kit": {
+        "owner": "SlavaSexton",
+        "name": "comfyui-agent-kit",
+        "branch": "master",
+        "enabled": true
+    },
+    "bcanfield/agentic-tech-debt": {
+        "owner": "bcanfield",
+        "name": "agentic-tech-debt",
+        "branch": "main",
+        "enabled": true
+    },
+    "jakubs2623/notebooklm-skill": {
+        "owner": "jakubs2623",
+        "name": "notebooklm-skill",
+        "branch": "main",
+        "skillsPath": "./",
+        "enabled": true
+    },
+    "Kayunangka/claude-skill": {
+        "owner": "Kayunangka",
+        "name": "claude-skill",
+        "branch": "main",
+        "enabled": true
+    },
+    "alo-exp/silver-bullet": {
+        "owner": "alo-exp",
+        "name": "silver-bullet",
+        "branch": "main",
+        "enabled": true
+    },
+    "wizzy15/obsidian-skill": {
+        "owner": "wizzy15",
+        "name": "obsidian-skill",
+        "branch": "main",
+        "skillsPath": "./",
+        "enabled": true
+    },
+    "eiwru/creative-director-skill": {
+        "owner": "eiwru",
+        "name": "creative-director-skill",
+        "branch": "main",
+        "enabled": true
+    },
+    "blindlove200/sub-agents-skills": {
+        "owner": "blindlove200",
+        "name": "sub-agents-skills",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
     }
 }

@@ -1396,5 +1396,95 @@
     "repoOwner": "mathisk2095",
     "repoName": "jko-claude-plugins",
     "repoBranch": "main"
+  },
+  "zarazhangrui/frontend-slides": {
+    "name": "zarazhangrui/frontend-slides",
+    "description": "Create beautiful slides on the web using a coding agent's frontend skills",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "zarazhangrui",
+    "repoName": "frontend-slides",
+    "repoBranch": "main"
+  },
+  "zapier/zapier-mcp": {
+    "name": "zapier/zapier-mcp",
+    "description": "Official plugin distribution for the hosted Zapier MCP server. Install it in your AI client and connect to thousands of apps.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "zapier",
+    "repoName": "zapier-mcp",
+    "repoBranch": "main"
+  },
+  "testdouble/han": {
+    "name": "testdouble/han",
+    "description": "Han: AI skills and agents for \"Solo\" product engineers and small teams",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "testdouble",
+    "repoName": "han",
+    "repoBranch": "main"
+  },
+  "Kanevry/session-orchestrator": {
+    "name": "Kanevry/session-orchestrator",
+    "description": "Loop engineering for AI coding agents \u2014 turn ad-hoc sessions into a repeatable research \u2192 plan \u2192 wave-execute \u2192 close loop with verification gates. Runs on Claude Code, Codex CLI, Cursor, and Pi. MIT community plugin.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "Kanevry",
+    "repoName": "session-orchestrator",
+    "repoBranch": "main"
+  },
+  "akaszubski/autonomous-dev": {
+    "name": "akaszubski/autonomous-dev",
+    "description": "Production-ready Claude Code 2.0 setup for autonomous development",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "akaszubski",
+    "repoName": "autonomous-dev",
+    "repoBranch": "master"
+  },
+  "bendrucker/claude": {
+    "name": "bendrucker/claude",
+    "description": "My personal plugin marketplace and settings for Claude Code",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "bendrucker",
+    "repoName": "claude",
+    "repoBranch": "main"
+  },
+  "bcanfield/agentic-tech-debt": {
+    "name": "bcanfield/agentic-tech-debt",
+    "description": "AI Plugin & Agent Skills to catch tech debt as it's written. Works with any agent. Any codebase. Backed by two decades of research.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "bcanfield",
+    "repoName": "agentic-tech-debt",
+    "repoBranch": "main"
+  },
+  "Kayunangka/claude-skill": {
+    "name": "Kayunangka/claude-skill",
+    "description": "\ud83d\udd0d Enhance code searches with ast-grep, finding patterns in your code structure for improved error handling and analysis.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "Kayunangka",
+    "repoName": "claude-skill",
+    "repoBranch": "main"
+  },
+  "alo-exp/silver-bullet": {
+    "name": "alo-exp/silver-bullet",
+    "description": "Agentic Process Orchestrator for AI-native Software Engineering & DevOps. SB-owned lifecycle workflows with traceability, quality gates, optional extension plugins, and hook-enforced delivery for Claude Code and Codex.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "alo-exp",
+    "repoName": "silver-bullet",
+    "repoBranch": "main"
+  },
+  "cdeust/zetetic-team-subagents": {
+    "name": "cdeust/zetetic-team-subagents",
+    "description": "97 reasoning patterns from history's greatest minds \u2014 as Claude Code agents. Curie to Toulmin. Engineering to humanities. Every claim cites its source. Every commit is checked. The only agent system where \"I don't kno...",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "cdeust",
+    "repoName": "zetetic-team-subagents",
+    "repoBranch": "main"
   }
 }
