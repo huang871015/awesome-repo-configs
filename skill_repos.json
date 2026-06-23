@@ -988,5 +988,56 @@
         "name": "catalyst",
         "branch": "main",
         "enabled": true
+    },
+    "code-yeongyu/oh-my-openagent": {
+        "owner": "code-yeongyu",
+        "name": "oh-my-openagent",
+        "branch": "dev",
+        "enabled": true
+    },
+    "YPares/rigup.nix": {
+        "owner": "YPares",
+        "name": "rigup.nix",
+        "branch": "main",
+        "enabled": true
+    },
+    "alex-feel/claude-code-toolbox": {
+        "owner": "alex-feel",
+        "name": "claude-code-toolbox",
+        "branch": "main",
+        "enabled": true
+    },
+    "LazyIsEfficient/agentic-os": {
+        "owner": "LazyIsEfficient",
+        "name": "agentic-os",
+        "branch": "main",
+        "skillsPath": ".claude/skills",
+        "enabled": true
+    },
+    "a-ariff/ariff-claude-plugins": {
+        "owner": "a-ariff",
+        "name": "ariff-claude-plugins",
+        "branch": "main",
+        "enabled": true
+    },
+    "ethanolivertroy/my-agent-stuff": {
+        "owner": "ethanolivertroy",
+        "name": "my-agent-stuff",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "MarcosNahuel/antigravity-plugin-cc": {
+        "owner": "MarcosNahuel",
+        "name": "antigravity-plugin-cc",
+        "branch": "main",
+        "enabled": true
+    },
+    "jnopareboateng/codex-claude-subagents": {
+        "owner": "jnopareboateng",
+        "name": "codex-claude-subagents",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
     }
 }

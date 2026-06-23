@@ -1171,5 +1171,41 @@
     "repoOwner": "coalesce-labs",
     "repoName": "catalyst",
     "repoBranch": "main"
+  },
+  "jianzhichun/permafrost": {
+    "name": "jianzhichun/permafrost",
+    "description": "Freeze Claude Code's prompt prefix so DeepSeek's automatic cache always hits \u2014 alignment proxy + coalescing + keepalive, installable as a CC plugin. Measured 64% cheaper on real Claude Code traffic.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "jianzhichun",
+    "repoName": "permafrost",
+    "repoBranch": "main"
+  },
+  "navox-labs/agents": {
+    "name": "navox-labs/agents",
+    "description": "AI agents for Claude Code \u2014 15 specialists that run your full software development sprint cycle. Strategy, architecture, code review, QA, security audit, and shipping. Open-source Claude Code plugin.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "navox-labs",
+    "repoName": "agents",
+    "repoBranch": "main"
+  },
+  "a-ariff/ariff-claude-plugins": {
+    "name": "a-ariff/ariff-claude-plugins",
+    "description": "65 plugins that turn Claude Code into an autonomous development team. 24 agents, 34 skills, 5 hooks. Includes 12-plugin anti-hallucination suite. One-line install.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "a-ariff",
+    "repoName": "ariff-claude-plugins",
+    "repoBranch": "main"
+  },
+  "MarcosNahuel/antigravity-plugin-cc": {
+    "name": "MarcosNahuel/antigravity-plugin-cc",
+    "description": "Local NotebookLM for Claude Code via Google Antigravity (agy / Gemini 3.x): /agy:notebook turns a folder of documents into per-doc summaries + a relevance index + a cited synthesis + Q&A. Plus audio/video transcriptio...",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "MarcosNahuel",
+    "repoName": "antigravity-plugin-cc",
+    "repoBranch": "main"
   }
 }
