@@ -1527,5 +1527,124 @@
         "branch": "main",
         "skillsPath": "skills",
         "enabled": true
+    },
+    "ethanhq/cc-fleet": {
+        "owner": "ethanhq",
+        "name": "cc-fleet",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "Infrasity-Labs/dev-gtm-claude-skills": {
+        "owner": "Infrasity-Labs",
+        "name": "dev-gtm-claude-skills",
+        "branch": "main",
+        "enabled": true
+    },
+    "KieranGao/general-readme-skill": {
+        "owner": "KieranGao",
+        "name": "general-readme-skill",
+        "branch": "main",
+        "skillsPath": "./",
+        "enabled": true
+    },
+    "Habitat-Thinking/ai-literacy-superpowers": {
+        "owner": "Habitat-Thinking",
+        "name": "ai-literacy-superpowers",
+        "branch": "main",
+        "enabled": true
+    },
+    "t1/tdder": {
+        "owner": "t1",
+        "name": "tdder",
+        "branch": "trunk",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "BlueprintOS/analysis-to-delivery": {
+        "owner": "BlueprintOS",
+        "name": "analysis-to-delivery",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "sneg55/agent-starter": {
+        "owner": "sneg55",
+        "name": "agent-starter",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "frankxai/Starlight-Intelligence-System": {
+        "owner": "frankxai",
+        "name": "Starlight-Intelligence-System",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "Ldxs001/workbuddy-skills": {
+        "owner": "Ldxs001",
+        "name": "workbuddy-skills",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "kurone-kito/idd-skill": {
+        "owner": "kurone-kito",
+        "name": "idd-skill",
+        "branch": "main",
+        "enabled": true
+    },
+    "sublimate-toe9304/craftcms-claude-skills": {
+        "owner": "sublimate-toe9304",
+        "name": "craftcms-claude-skills",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "Abwor9658/social-media-skills": {
+        "owner": "Abwor9658",
+        "name": "social-media-skills",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "halflength-ampleness75/claude-code-recipes": {
+        "owner": "halflength-ampleness75",
+        "name": "claude-code-recipes",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "minamagdyyyy/agentic-marketing": {
+        "owner": "minamagdyyyy",
+        "name": "agentic-marketing",
+        "branch": "master",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "jmagar/axon": {
+        "owner": "jmagar",
+        "name": "axon",
+        "branch": "main",
+        "enabled": true
+    },
+    "PrabhdeepSingh/claude-plugins": {
+        "owner": "PrabhdeepSingh",
+        "name": "claude-plugins",
+        "branch": "main",
+        "enabled": true
+    },
+    "sparklingneuronics/sparkling-skills": {
+        "owner": "sparklingneuronics",
+        "name": "sparkling-skills",
+        "branch": "main",
+        "enabled": true
+    },
+    "chafoo/anchored": {
+        "owner": "chafoo",
+        "name": "anchored",
+        "branch": "main",
+        "enabled": true
     }
 }

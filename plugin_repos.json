@@ -1666,5 +1666,86 @@
     "repoOwner": "voxpelli",
     "repoName": "vp-claude",
     "repoBranch": "main"
+  },
+  "ethanhq/cc-fleet": {
+    "name": "ethanhq/cc-fleet",
+    "description": "\ud83d\udea2 Run Claude Code's \u2699\ufe0f Dynamic Workflows, \ud83d\udc65 Agent Teams & \u26a1 Subagents on any third-party model \u2014 DeepSeek \u00b7 GLM \u00b7 Kimi \u00b7 Qwen \u2026 or your Codex subscription. No Anthropic subscription needed. \uff5c \ud83d\udea2 \u8ba9 Claude Code \u7684 \u2699\ufe0f Dyna...",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "ethanhq",
+    "repoName": "cc-fleet",
+    "repoBranch": "main"
+  },
+  "Infrasity-Labs/dev-gtm-claude-skills": {
+    "name": "Infrasity-Labs/dev-gtm-claude-skills",
+    "description": "Open-source Claude skills for GEO, AI discoverability, and developer GTM workflows. Built for developer-focused companies that want their documentation to be found, parsed, and cited by AI systems.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "Infrasity-Labs",
+    "repoName": "dev-gtm-claude-skills",
+    "repoBranch": "main"
+  },
+  "Habitat-Thinking/ai-literacy-superpowers": {
+    "name": "Habitat-Thinking/ai-literacy-superpowers",
+    "description": "A set of Claude Code and GitHub Copilot plugins providing the AI Literacy framework's complete development workflow \u2014 harness engineering, agent orchestration, literate programming, CUPID code review, and the three en...",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "Habitat-Thinking",
+    "repoName": "ai-literacy-superpowers",
+    "repoBranch": "main"
+  },
+  "t1/tdder": {
+    "name": "t1/tdder",
+    "description": "A Claude Code plugin that guides AI agents through disciplined Test-Driven Development and Clean Code practices.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "t1",
+    "repoName": "tdder",
+    "repoBranch": "trunk"
+  },
+  "sneg55/agent-starter": {
+    "name": "sneg55/agent-starter",
+    "description": "A toolkit of skills, templates, and guides for bootstrapping AI-agent-friendly projects. Started from Anthropic's Claude Code engineering patterns, extended with a per-project self-improvement loop and more.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "sneg55",
+    "repoName": "agent-starter",
+    "repoBranch": "main"
+  },
+  "frankxai/Starlight-Intelligence-System": {
+    "name": "frankxai/Starlight-Intelligence-System",
+    "description": "The sovereign intelligence substrate \u2014 persistent memory, 48 agents, 71 skills, and attested governance for your whole AI fleet across Claude Code, Cursor, Codex, Gemini CLI & Antigravity.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "frankxai",
+    "repoName": "Starlight-Intelligence-System",
+    "repoBranch": "main"
+  },
+  "PrabhdeepSingh/claude-plugins": {
+    "name": "PrabhdeepSingh/claude-plugins",
+    "description": "PrabhdeepSingh/claude-plugins \u2014 plugin marketplace.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "PrabhdeepSingh",
+    "repoName": "claude-plugins",
+    "repoBranch": "main"
+  },
+  "sparklingneuronics/sparkling-skills": {
+    "name": "sparklingneuronics/sparkling-skills",
+    "description": "Give Claude Code a second opinion \u2014 run OpenAI Codex & Google Gemini from inside Claude Code (the dispatch plugin).",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "sparklingneuronics",
+    "repoName": "sparkling-skills",
+    "repoBranch": "main"
+  },
+  "chafoo/anchored": {
+    "name": "chafoo/anchored",
+    "description": "Long autonomous AI coding runs you can actually trust \u2014 a fractal plan\u2192refine\u2192build\u2192wrap lifecycle on every tier (epic \u25b8 task \u25b8 phase). Claude Code plugin, CLI-only, evidence-anchored.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "chafoo",
+    "repoName": "anchored",
+    "repoBranch": "main"
   }
 }

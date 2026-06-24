@@ -464,5 +464,33 @@
     "branch": "main",
     "agentsPath": "agents",
     "enabled": true
+  },
+  "Infrasity-Labs/dev-gtm-claude-skills": {
+    "owner": "Infrasity-Labs",
+    "name": "dev-gtm-claude-skills",
+    "branch": "main",
+    "agentsPath": ".claude/agents",
+    "enabled": true
+  },
+  "t1/tdder": {
+    "owner": "t1",
+    "name": "tdder",
+    "branch": "trunk",
+    "agentsPath": "agents",
+    "enabled": true
+  },
+  "frankxai/Starlight-Intelligence-System": {
+    "owner": "frankxai",
+    "name": "Starlight-Intelligence-System",
+    "branch": "main",
+    "agentsPath": "agents",
+    "enabled": true
+  },
+  "sublimate-toe9304/craftcms-claude-skills": {
+    "owner": "sublimate-toe9304",
+    "name": "craftcms-claude-skills",
+    "branch": "main",
+    "agentsPath": "agents",
+    "enabled": true
   }
 }
