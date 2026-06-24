@@ -1747,5 +1747,86 @@
     "repoOwner": "chafoo",
     "repoName": "anchored",
     "repoBranch": "main"
+  },
+  "jamditis/claude-skills-journalism": {
+    "name": "jamditis/claude-skills-journalism",
+    "description": "Claude Code skills for journalism, media, and academia - verification, FOIA, data journalism, academic writing, and more",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "jamditis",
+    "repoName": "claude-skills-journalism",
+    "repoBranch": "master"
+  },
+  "Czarnak/totally-integrated-claude": {
+    "name": "Czarnak/totally-integrated-claude",
+    "description": "A Claude Code plugin for Siemens TIA Portal engineering automation.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "Czarnak",
+    "repoName": "totally-integrated-claude",
+    "repoBranch": "main"
+  },
+  "mikeprasad/aria-knowledge": {
+    "name": "mikeprasad/aria-knowledge",
+    "description": "Applied reasoning, persistent agent memory, context engineering, and human-governed trust for AI coding agents \u2014 Claude Code, Claude Cowork, Codex, Cursor, Antigravity. Compatible with Obsidian.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "mikeprasad",
+    "repoName": "aria-knowledge",
+    "repoBranch": "main"
+  },
+  "ahundt/autorun": {
+    "name": "ahundt/autorun",
+    "description": "Claude Code & codex plugin + Gemini cli extension to keep ai running, keep data safe, plan better, and keep running until tasks are done.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "ahundt",
+    "repoName": "autorun",
+    "repoBranch": "main"
+  },
+  "stefanoskarakasis/Product-Marketing-Skills": {
+    "name": "stefanoskarakasis/Product-Marketing-Skills",
+    "description": "Product Marketing Skills for Claude Cowork and AI agents \u2014 from growth experiments to go-to-market strategy, execution, CI, and research.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "stefanoskarakasis",
+    "repoName": "Product-Marketing-Skills",
+    "repoBranch": "main"
+  },
+  "qte77/claude-code-plugins": {
+    "name": "qte77/claude-code-plugins",
+    "description": "A Claude Code plugin marketplace providing skills, rules, and scripts extracted from a production development workflow.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "qte77",
+    "repoName": "claude-code-plugins",
+    "repoBranch": "main"
+  },
+  "racecraft-lab/racecraft-plugins-public": {
+    "name": "racecraft-lab/racecraft-plugins-public",
+    "description": "Open-source Claude Code plugins from Racecraft Lab",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "racecraft-lab",
+    "repoName": "racecraft-plugins-public",
+    "repoBranch": "main"
+  },
+  "spideynolove/claude-code-in-action": {
+    "name": "spideynolove/claude-code-in-action",
+    "description": "The process I experienced firsthand through the  https://anthropic.skilljar.com/claude-code-in-action course using real-world daily projects",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "spideynolove",
+    "repoName": "claude-code-in-action",
+    "repoBranch": "main"
+  },
+  "Dannykkh/skill-olympus": {
+    "name": "Dannykkh/skill-olympus",
+    "description": "Twelve Greek gods. One command. A working SaaS. 98 skills + 49 agents + 13 hooks for Claude Code + Codex CLI + Gemini CLI. Cross-CLI persistent memory, zero-interaction full pipeline (design \u2192 build \u2192 inspect \u2192 test \u2192...",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "Dannykkh",
+    "repoName": "skill-olympus",
+    "repoBranch": "master"
   }
 }

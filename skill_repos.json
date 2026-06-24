@@ -1646,5 +1646,95 @@
         "name": "anchored",
         "branch": "main",
         "enabled": true
+    },
+    "jamditis/claude-skills-journalism": {
+        "owner": "jamditis",
+        "name": "claude-skills-journalism",
+        "branch": "master",
+        "enabled": true
+    },
+    "Czarnak/totally-integrated-claude": {
+        "owner": "Czarnak",
+        "name": "totally-integrated-claude",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "mikeprasad/aria-knowledge": {
+        "owner": "mikeprasad",
+        "name": "aria-knowledge",
+        "branch": "main",
+        "enabled": true
+    },
+    "ahundt/autorun": {
+        "owner": "ahundt",
+        "name": "autorun",
+        "branch": "main",
+        "enabled": true
+    },
+    "SugarMGP/study.skill": {
+        "owner": "SugarMGP",
+        "name": "study.skill",
+        "branch": "main",
+        "skillsPath": "./",
+        "enabled": true
+    },
+    "kemalyy/edumints-scorm-skill": {
+        "owner": "kemalyy",
+        "name": "edumints-scorm-skill",
+        "branch": "main",
+        "enabled": true
+    },
+    "Laic-parsiism709/meshy-3d-agent": {
+        "owner": "Laic-parsiism709",
+        "name": "meshy-3d-agent",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "stefanoskarakasis/Product-Marketing-Skills": {
+        "owner": "stefanoskarakasis",
+        "name": "Product-Marketing-Skills",
+        "branch": "main",
+        "enabled": true
+    },
+    "qte77/claude-code-plugins": {
+        "owner": "qte77",
+        "name": "claude-code-plugins",
+        "branch": "main",
+        "enabled": true
+    },
+    "racecraft-lab/racecraft-plugins-public": {
+        "owner": "racecraft-lab",
+        "name": "racecraft-plugins-public",
+        "branch": "main",
+        "enabled": true
+    },
+    "Claudefarid/claude-ceo-skill": {
+        "owner": "Claudefarid",
+        "name": "claude-ceo-skill",
+        "branch": "main",
+        "skillsPath": "./",
+        "enabled": true
+    },
+    "spideynolove/claude-code-in-action": {
+        "owner": "spideynolove",
+        "name": "claude-code-in-action",
+        "branch": "main",
+        "enabled": true
+    },
+    "Dannykkh/skill-olympus": {
+        "owner": "Dannykkh",
+        "name": "skill-olympus",
+        "branch": "master",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "YousefNabil-SOC/claude-apex": {
+        "owner": "YousefNabil-SOC",
+        "name": "claude-apex",
+        "branch": "master",
+        "skillsPath": "skills",
+        "enabled": true
     }
 }

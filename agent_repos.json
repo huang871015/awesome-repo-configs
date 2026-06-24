@@ -492,5 +492,54 @@
     "branch": "main",
     "agentsPath": "agents",
     "enabled": true
+  },
+  "SynokiKT/claude-crew": {
+    "owner": "SynokiKT",
+    "name": "claude-crew",
+    "branch": "main",
+    "agentsPath": "agents",
+    "enabled": true
+  },
+  "racecraft-lab/racecraft-plugins-public": {
+    "owner": "racecraft-lab",
+    "name": "racecraft-plugins-public",
+    "branch": "main",
+    "agentsPath": ".claude/agents",
+    "enabled": true
+  },
+  "spideynolove/claude-code-in-action": {
+    "owner": "spideynolove",
+    "name": "claude-code-in-action",
+    "branch": "main",
+    "agentsPath": ".claude/agents",
+    "enabled": true
+  },
+  "easonwang00/Startup-Agents": {
+    "owner": "easonwang00",
+    "name": "Startup-Agents",
+    "branch": "main",
+    "agentsPath": ".claude/agents",
+    "enabled": true
+  },
+  "Rohankundra2009/claude-agents-forge": {
+    "owner": "Rohankundra2009",
+    "name": "claude-agents-forge",
+    "branch": "main",
+    "agentsPath": "agents",
+    "enabled": true
+  },
+  "Dannykkh/skill-olympus": {
+    "owner": "Dannykkh",
+    "name": "skill-olympus",
+    "branch": "master",
+    "agentsPath": "agents",
+    "enabled": true
+  },
+  "YousefNabil-SOC/claude-apex": {
+    "owner": "YousefNabil-SOC",
+    "name": "claude-apex",
+    "branch": "master",
+    "agentsPath": "agents",
+    "enabled": true
   }
 }
