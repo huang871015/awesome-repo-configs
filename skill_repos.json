@@ -1426,5 +1426,106 @@
         "branch": "main",
         "skillsPath": ".claude/skills",
         "enabled": true
+    },
+    "mohitagw15856/pm-claude-skills": {
+        "owner": "mohitagw15856",
+        "name": "pm-claude-skills",
+        "branch": "main",
+        "enabled": true
+    },
+    "majiayu000/spellbook": {
+        "owner": "majiayu000",
+        "name": "spellbook",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "crisandrews/ClawCode": {
+        "owner": "crisandrews",
+        "name": "ClawCode",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "mmTheBest/Research-Architect": {
+        "owner": "mmTheBest",
+        "name": "Research-Architect",
+        "branch": "main",
+        "enabled": true
+    },
+    "meshy-dev/meshy-3d-agent": {
+        "owner": "meshy-dev",
+        "name": "meshy-3d-agent",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "gaia-react/gaia": {
+        "owner": "gaia-react",
+        "name": "gaia",
+        "branch": "main",
+        "skillsPath": ".claude/skills",
+        "enabled": true
+    },
+    "maojiebc/majia-guanyuan": {
+        "owner": "maojiebc",
+        "name": "majia-guanyuan",
+        "branch": "main",
+        "skillsPath": "./",
+        "enabled": true
+    },
+    "EvolveHQ/docflow": {
+        "owner": "EvolveHQ",
+        "name": "docflow",
+        "branch": "main",
+        "enabled": true
+    },
+    "HsuanYuLee/polaris": {
+        "owner": "HsuanYuLee",
+        "name": "polaris",
+        "branch": "main",
+        "skillsPath": ".claude/skills",
+        "enabled": true
+    },
+    "fakoli/fakoli-plugins": {
+        "owner": "fakoli",
+        "name": "fakoli-plugins",
+        "branch": "main",
+        "enabled": true
+    },
+    "hiadrianchen/challenge-plans": {
+        "owner": "hiadrianchen",
+        "name": "challenge-plans",
+        "branch": "main",
+        "skillsPath": "./",
+        "enabled": true
+    },
+    "infiniV/ultra-ml-intern": {
+        "owner": "infiniV",
+        "name": "ultra-ml-intern",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "josephfung/trimkit": {
+        "owner": "josephfung",
+        "name": "trimkit",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "voxpelli/vp-claude": {
+        "owner": "voxpelli",
+        "name": "vp-claude",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "vshidlovsky/prd-agents-framework": {
+        "owner": "vshidlovsky",
+        "name": "prd-agents-framework",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
     }
 }

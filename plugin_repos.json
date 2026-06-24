@@ -1585,5 +1585,86 @@
     "repoOwner": "muckybuzzwoo",
     "repoName": "claude-code-youtube-extract",
     "repoBranch": "main"
+  },
+  "mohitagw15856/pm-claude-skills": {
+    "name": "mohitagw15856/pm-claude-skills",
+    "description": "232 professional Agent Skills (PRDs, launches, postmortems, compliance & more) for Claude, ChatGPT, Gemini, Cursor & Codex. Try free in-browser, or 'npx pm-claude-skills add'. One SKILL.md, every AI tool.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "mohitagw15856",
+    "repoName": "pm-claude-skills",
+    "repoBranch": "main"
+  },
+  "majiayu000/spellbook": {
+    "name": "majiayu000/spellbook",
+    "description": "Cross-runtime skills for Claude Code, Codex, and multi-agent workflows.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "majiayu000",
+    "repoName": "spellbook",
+    "repoBranch": "main"
+  },
+  "2389-research/claude-plugins": {
+    "name": "2389-research/claude-plugins",
+    "description": "28 plugins and MCP servers for Claude Code \u2014 TDD, multi-agent orchestration, iterative refinement, binary RE, structured decisions. Install any skill in one command.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "2389-research",
+    "repoName": "claude-plugins",
+    "repoBranch": "main"
+  },
+  "crisandrews/ClawCode": {
+    "name": "crisandrews/ClawCode",
+    "description": "Persistent agents for Claude Code as a plugin, not a harness. Memory, personality, messaging across WhatsApp, Telegram, and Discord, plus a service mode for 24/7 runs. Imports from OpenClaw.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "crisandrews",
+    "repoName": "ClawCode",
+    "repoBranch": "main"
+  },
+  "maojiebc/majia-guanyuan": {
+    "name": "maojiebc/majia-guanyuan",
+    "description": "\u89c2\u8fdc BI \u00b7 \u9a6c\u7532\u5b9e\u6218\u7248 \u2014\u2014 \u5b98\u65b9\u5168\u5bb6\u6876\u4e4b\u4e0a\u7684\u5b9e\u6218\u589e\u76ca\u5c42\u3002\u6807\u51c6\u67e5\u6570/\u5efa\u5361/ETL/\u6570\u636e\u96c6 CRUD \u8def\u7531\u5b98\u65b9\uff08guancli/guanvis/guanetl/guanwf/guands\uff0c5 \u4ef6\uff09\uff0c\u672c skill \u4e13\u653b\u5b98\u65b9\u591f\u4e0d\u7740\u7684\u786c\u9aa8\u5934\uff1aETL \u6574\u5e93\u6cbb\u7406+10\u7c7b\u5f15\u64ce\u62a5\u9519\u3001\u81ea\u5b9a\u4e49\u56fe\u8868\u6ce8\u5165+descriptor patch\u3001HTML \u770b\u677f\u89c6\u89c9\u8bbe\u8ba1\u5e95\u7ebf\uff08\u53cd AI \u5473\u7ea2\u7ebf+\u4e94\u5c42\u9a8c\u6536\uff09\u3001v7 \u72b6\u6001\u673a\u7ed5\u8fc7\u3001SuperApp \u53cd\u5411\u5de5\u7a0b\u3001AI-...",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "maojiebc",
+    "repoName": "majia-guanyuan",
+    "repoBranch": "main"
+  },
+  "EvolveHQ/docflow": {
+    "name": "EvolveHQ/docflow",
+    "description": "ADR-driven documentation workflow for the Claude Code and pi coding agents: scaffold and manage Architecture Decision Records (ADRs), a plan queue, and AGENTS.md conventions \u2014 a bootstrap skill plus lifecycle skills t...",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "EvolveHQ",
+    "repoName": "docflow",
+    "repoBranch": "main"
+  },
+  "fakoli/fakoli-plugins": {
+    "name": "fakoli/fakoli-plugins",
+    "description": "A curated collection of Claude Code plugins for enhanced productivity and development workflows",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "fakoli",
+    "repoName": "fakoli-plugins",
+    "repoBranch": "main"
+  },
+  "infiniV/ultra-ml-intern": {
+    "name": "infiniV/ultra-ml-intern",
+    "description": "ultra-instinct ML engineering intern for Claude Code. Reads papers, audits datasets, ships SFT/DPO/LoRA runs to Hugging Face.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "infiniV",
+    "repoName": "ultra-ml-intern",
+    "repoBranch": "main"
+  },
+  "voxpelli/vp-claude": {
+    "name": "voxpelli/vp-claude",
+    "description": "Claude Code plugin marketplace + plugin that turns Basic Memory into an actively maintained knowledge graph",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "voxpelli",
+    "repoName": "vp-claude",
+    "repoBranch": "main"
   }
 }

@@ -415,5 +415,54 @@
     "branch": "main",
     "agentsPath": ".claude/agents",
     "enabled": true
+  },
+  "mohitagw15856/pm-claude-skills": {
+    "owner": "mohitagw15856",
+    "name": "pm-claude-skills",
+    "branch": "main",
+    "agentsPath": "agents",
+    "enabled": true
+  },
+  "majiayu000/spellbook": {
+    "owner": "majiayu000",
+    "name": "spellbook",
+    "branch": "main",
+    "agentsPath": "agents",
+    "enabled": true
+  },
+  "gaia-react/gaia": {
+    "owner": "gaia-react",
+    "name": "gaia",
+    "branch": "main",
+    "agentsPath": ".claude/agents",
+    "enabled": true
+  },
+  "infiniV/ultra-ml-intern": {
+    "owner": "infiniV",
+    "name": "ultra-ml-intern",
+    "branch": "main",
+    "agentsPath": "agents",
+    "enabled": true
+  },
+  "josephfung/trimkit": {
+    "owner": "josephfung",
+    "name": "trimkit",
+    "branch": "main",
+    "agentsPath": "agents",
+    "enabled": true
+  },
+  "voxpelli/vp-claude": {
+    "owner": "voxpelli",
+    "name": "vp-claude",
+    "branch": "main",
+    "agentsPath": "agents",
+    "enabled": true
+  },
+  "vshidlovsky/prd-agents-framework": {
+    "owner": "vshidlovsky",
+    "name": "prd-agents-framework",
+    "branch": "main",
+    "agentsPath": "agents",
+    "enabled": true
   }
 }
