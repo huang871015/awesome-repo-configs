@@ -2125,5 +2125,113 @@
     "repoOwner": "ArieGoldkin",
     "repoName": "claude-forge",
     "repoBranch": "main"
+  },
+  "raiyanyahya/recall": {
+    "name": "raiyanyahya/recall",
+    "description": "Stop wasting tokens and re-explaining your project every session. Recall gives Claude Code durable memory \u2014 entirely offline.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "raiyanyahya",
+    "repoName": "recall",
+    "repoBranch": "master"
+  },
+  "AgentToolkit/altk-evolve": {
+    "name": "AgentToolkit/altk-evolve",
+    "description": "Self improving agents through iterations",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "AgentToolkit",
+    "repoName": "altk-evolve",
+    "repoBranch": "main"
+  },
+  "open-agreements/open-agreements": {
+    "name": "open-agreements/open-agreements",
+    "description": "Fill standard legal agreement templates and produce signable DOCX files.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "open-agreements",
+    "repoName": "open-agreements",
+    "repoBranch": "main"
+  },
+  "rbinar/cli-dispatch": {
+    "name": "rbinar/cli-dispatch",
+    "description": "DeepSeek destekli Claude Code'u delege i\u015f\u00e7i olarak \u00e7al\u0131\u015ft\u0131ran Claude Code plugin (marketplace + skill + komutlar)",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "rbinar",
+    "repoName": "cli-dispatch",
+    "repoBranch": "main"
+  },
+  "voxpelli/claude-beads": {
+    "name": "voxpelli/claude-beads",
+    "description": "Claude Code plugin that automates the sprint workflow for projects using beads and Basic Memory",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "voxpelli",
+    "repoName": "claude-beads",
+    "repoBranch": "main"
+  },
+  "multiplex-ai/muggle-ai-teams": {
+    "name": "multiplex-ai/muggle-ai-teams",
+    "description": "AI workflow for Claude Code \u2014 describe what you want, get production-grade results. Code, content, design, planning. Built by MuggleTest.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "multiplex-ai",
+    "repoName": "muggle-ai-teams",
+    "repoBranch": "main"
+  },
+  "pablocaeg/claude-army": {
+    "name": "pablocaeg/claude-army",
+    "description": "Claude Code plugin that analyzes any project and creates orchestrated teams of specialized agents. Studies codebase patterns, PR reviews, and conventions to produce agents grounded in the actual project.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "pablocaeg",
+    "repoName": "claude-army",
+    "repoBranch": "main"
+  },
+  "NDDev-it-com/rldyour-claudecode": {
+    "name": "NDDev-it-com/rldyour-claudecode",
+    "description": "rldyour AI CLI configuration for Claude Code: plugin marketplace, MCP/LSP, Serena memory, security review, browser/design workflows, and reviewer agents.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "NDDev-it-com",
+    "repoName": "rldyour-claudecode",
+    "repoBranch": "main"
+  },
+  "LH8PPL/claude-memory-kit": {
+    "name": "LH8PPL/claude-memory-kit",
+    "description": "Persistent per-project memory for Claude Code \u2014 plain markdown committed with your code, captured automatically every turn, recalled by meaning (local semantic search, zero API). Cross-project persona, cited recall, a...",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "LH8PPL",
+    "repoName": "claude-memory-kit",
+    "repoBranch": "main"
+  },
+  "IamK77/Skill": {
+    "name": "IamK77/Skill",
+    "description": "Agent-era skill suites for Claude Code: engineering lifecycle + distributed systems, gated by the checklist CLI",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "IamK77",
+    "repoName": "Skill",
+    "repoBranch": "main"
+  },
+  "kimikonapps/kimiflow": {
+    "name": "kimikonapps/kimiflow",
+    "description": "kimiflow \u2014 Claude Code + Codex plugin for codebase mapping, gated feature/fix flows, token-cheap learning memory, and Obsidian Vault MCP setup.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "kimikonapps",
+    "repoName": "kimiflow",
+    "repoBranch": "main"
+  },
+  "qiaeru/skill-prose-francaise": {
+    "name": "qiaeru/skill-prose-francaise",
+    "description": "Un skill Claude Code pour \u00e9liminer les tics d'\u00e9criture de l'IA dans les textes fran\u00e7ais.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "qiaeru",
+    "repoName": "skill-prose-francaise",
+    "repoBranch": "main"
   }
 }

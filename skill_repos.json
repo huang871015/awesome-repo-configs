@@ -2055,5 +2055,110 @@
         "name": "claude-forge",
         "branch": "main",
         "enabled": true
+    },
+    "AgentToolkit/altk-evolve": {
+        "owner": "AgentToolkit",
+        "name": "altk-evolve",
+        "branch": "main",
+        "enabled": true
+    },
+    "open-agreements/open-agreements": {
+        "owner": "open-agreements",
+        "name": "open-agreements",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "wazionapps/nexo": {
+        "owner": "wazionapps",
+        "name": "nexo",
+        "branch": "main",
+        "enabled": true
+    },
+    "JEFF7712/nix-agent": {
+        "owner": "JEFF7712",
+        "name": "nix-agent",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "andykear/FileMaker-XMLsnippet-Layout-Claude-Skill": {
+        "owner": "andykear",
+        "name": "FileMaker-XMLsnippet-Layout-Claude-Skill",
+        "branch": "main",
+        "skillsPath": "./",
+        "enabled": true
+    },
+    "rbinar/cli-dispatch": {
+        "owner": "rbinar",
+        "name": "cli-dispatch",
+        "branch": "main",
+        "enabled": true
+    },
+    "voxpelli/claude-beads": {
+        "owner": "voxpelli",
+        "name": "claude-beads",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "multiplex-ai/muggle-ai-teams": {
+        "owner": "multiplex-ai",
+        "name": "muggle-ai-teams",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "pablocaeg/claude-army": {
+        "owner": "pablocaeg",
+        "name": "claude-army",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "NDDev-it-com/rldyour-claudecode": {
+        "owner": "NDDev-it-com",
+        "name": "rldyour-claudecode",
+        "branch": "main",
+        "enabled": true
+    },
+    "LH8PPL/claude-memory-kit": {
+        "owner": "LH8PPL",
+        "name": "claude-memory-kit",
+        "branch": "main",
+        "enabled": true
+    },
+    "IamK77/Skill": {
+        "owner": "IamK77",
+        "name": "Skill",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "kimikonapps/kimiflow": {
+        "owner": "kimikonapps",
+        "name": "kimiflow",
+        "branch": "main",
+        "skillsPath": "./",
+        "enabled": true
+    },
+    "qiaeru/skill-prose-francaise": {
+        "owner": "qiaeru",
+        "name": "skill-prose-francaise",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "wemwi/skill-library": {
+        "owner": "wemwi",
+        "name": "skill-library",
+        "branch": "main",
+        "enabled": true
+    },
+    "craigtrim/skills": {
+        "owner": "craigtrim",
+        "name": "skills",
+        "branch": "master",
+        "enabled": true
     }
 }
