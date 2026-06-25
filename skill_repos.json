@@ -5,12 +5,12 @@
         "branch": "main",
         "enabled": true
     },
-  "Linked-API/linkedin-skills": {
-    "owner": "Linked-API",
-    "name": "linkedin-skills",
-    "branch": "main",
-    "enabled": true
-  },
+    "Linked-API/linkedin-skills": {
+        "owner": "Linked-API",
+        "name": "linkedin-skills",
+        "branch": "main",
+        "enabled": true
+    },
     "K-Dense-AI/claude-scientific-skills": {
         "owner": "K-Dense-AI",
         "name": "claude-scientific-skills",
@@ -1937,6 +1937,123 @@
         "name": "skills",
         "branch": "main",
         "skillsPath": "skills",
+        "enabled": true
+    },
+    "RobThePCGuy/Claude-Patent-Creator": {
+        "owner": "RobThePCGuy",
+        "name": "Claude-Patent-Creator",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "wquguru/skills": {
+        "owner": "wquguru",
+        "name": "skills",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "adriannoes/awesome-vibe-coding": {
+        "owner": "adriannoes",
+        "name": "awesome-vibe-coding",
+        "branch": "main",
+        "enabled": true
+    },
+    "SenolIsci/mykg": {
+        "owner": "SenolIsci",
+        "name": "mykg",
+        "branch": "main",
+        "skillsPath": ".claude/skills",
+        "enabled": true
+    },
+    "georgekhananaev/claude-skills-vault": {
+        "owner": "georgekhananaev",
+        "name": "claude-skills-vault",
+        "branch": "main",
+        "skillsPath": ".claude/skills",
+        "enabled": true
+    },
+    "mirkobozzetto/arsenal": {
+        "owner": "mirkobozzetto",
+        "name": "arsenal",
+        "branch": "main",
+        "enabled": true
+    },
+    "qwerfunch/cladding": {
+        "owner": "qwerfunch",
+        "name": "cladding",
+        "branch": "main",
+        "enabled": true
+    },
+    "AndreaBozzo/Ceres-Claude-Skill": {
+        "owner": "AndreaBozzo",
+        "name": "Ceres-Claude-Skill",
+        "branch": "main",
+        "enabled": true
+    },
+    "chrisp28103/sn-toolkit": {
+        "owner": "chrisp28103",
+        "name": "sn-toolkit",
+        "branch": "main",
+        "enabled": true
+    },
+    "PicsArt/gen-ai-skills": {
+        "owner": "PicsArt",
+        "name": "gen-ai-skills",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "outreachmagic/outreachmagic": {
+        "owner": "outreachmagic",
+        "name": "outreachmagic",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "Junayedahmedd/gemini_cli_skill": {
+        "owner": "Junayedahmedd",
+        "name": "gemini_cli_skill",
+        "branch": "main",
+        "skillsPath": "./",
+        "enabled": true
+    },
+    "blisspixel/primr": {
+        "owner": "blisspixel",
+        "name": "primr",
+        "branch": "main",
+        "enabled": true
+    },
+    "OpenLatch/saferskills": {
+        "owner": "OpenLatch",
+        "name": "saferskills",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "smykla-skalski/sai": {
+        "owner": "smykla-skalski",
+        "name": "sai",
+        "branch": "main",
+        "enabled": true
+    },
+    "molnify/molnify-app-builder-skill": {
+        "owner": "molnify",
+        "name": "molnify-app-builder-skill",
+        "branch": "main",
+        "skillsPath": "./",
+        "enabled": true
+    },
+    "XAKLESK/cre-agent-skills": {
+        "owner": "XAKLESK",
+        "name": "cre-agent-skills",
+        "branch": "main",
+        "enabled": true
+    },
+    "ArieGoldkin/claude-forge": {
+        "owner": "ArieGoldkin",
+        "name": "claude-forge",
+        "branch": "main",
         "enabled": true
     }
 }

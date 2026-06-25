@@ -2026,5 +2026,104 @@
     "repoOwner": "toBzh30",
     "repoName": "Claude-Project-Bootstrap",
     "repoBranch": "main"
+  },
+  "RobThePCGuy/Claude-Patent-Creator": {
+    "name": "RobThePCGuy/Claude-Patent-Creator",
+    "description": "USPTO patent creation system with MCP server + Claude Code plugin. Hybrid RAG search over   MPEP/USC/CFR, BigQuery access to 76M+ patents, automated 35 USC 112 compliance checks, prior   art search, diagram generation...",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "RobThePCGuy",
+    "repoName": "Claude-Patent-Creator",
+    "repoBranch": "main"
+  },
+  "sdsrss/claude-mem-lite": {
+    "name": "sdsrss/claude-mem-lite",
+    "description": "Persistent long-term memory for Claude Code via MCP \u2014 captures coding decisions, bugfixes, and context across sessions. Hybrid FTS5 + TF-IDF search with episode batching. Single SQLite DB, no external services. Altern...",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "sdsrss",
+    "repoName": "claude-mem-lite",
+    "repoBranch": "main"
+  },
+  "sdsrss/code-graph-mcp": {
+    "name": "sdsrss/code-graph-mcp",
+    "description": "AST knowledge graph MCP server for Claude Code \u2014 semantic search, call graph traversal, HTTP route tracing, impact analysis. Auto-indexes 10 languages via Tree-sitter.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "sdsrss",
+    "repoName": "code-graph-mcp",
+    "repoBranch": "main"
+  },
+  "adriannoes/awesome-vibe-coding": {
+    "name": "adriannoes/awesome-vibe-coding",
+    "description": "298 agent skills (Cursor, Claude Code & Codex), 5,380 OpenClaw skills, 201 ML notebooks, 48 research papers, 15 industry reports, for PMs, Designers & Developers.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "adriannoes",
+    "repoName": "awesome-vibe-coding",
+    "repoBranch": "main"
+  },
+  "mirkobozzetto/arsenal": {
+    "name": "mirkobozzetto/arsenal",
+    "description": "Mirko Bozzetto's curated skills for AI coding agents (Claude Code, Codex, Cursor, ...)",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "mirkobozzetto",
+    "repoName": "arsenal",
+    "repoBranch": "main"
+  },
+  "qwerfunch/cladding": {
+    "name": "qwerfunch/cladding",
+    "description": "Ending vibe coding. The integrity layer for AI-coded software \u2014 spec-driven, drift-aware, iron-clad. Reference implementation of the Ironclad standard, with a plugin and MCP server for Claude Code, Codex CLI, Gemini C...",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "qwerfunch",
+    "repoName": "cladding",
+    "repoBranch": "main"
+  },
+  "chrisp28103/sn-toolkit": {
+    "name": "chrisp28103/sn-toolkit",
+    "description": "ServiceNow dev kit for Claude Code: Agent API wrapper, session hooks, slash commands, explorer + reviewer agents, official-docs lookup skill.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "chrisp28103",
+    "repoName": "sn-toolkit",
+    "repoBranch": "main"
+  },
+  "PicsArt/gen-ai-skills": {
+    "name": "PicsArt/gen-ai-skills",
+    "description": "Shared skills, prompts, and tooling for Picsart's gen-ai CLI and generative-AI workflows",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "PicsArt",
+    "repoName": "gen-ai-skills",
+    "repoBranch": "main"
+  },
+  "blisspixel/primr": {
+    "name": "blisspixel/primr",
+    "description": "Turn any company URL into a strategic intelligence brief. Adaptive scraping + AI-powered research and synthesis.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "blisspixel",
+    "repoName": "primr",
+    "repoBranch": "main"
+  },
+  "smykla-skalski/sai": {
+    "name": "smykla-skalski/sai",
+    "description": "Claude Code plugins for development workflows, automation, and productivity \u2014 19 independent skills",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "smykla-skalski",
+    "repoName": "sai",
+    "repoBranch": "main"
+  },
+  "ArieGoldkin/claude-forge": {
+    "name": "ArieGoldkin/claude-forge",
+    "description": "Claude Forge \u2014 a suite of domain-agnostic Claude Code plugins sharing hook infrastructure via symlinks: session continuity, DevOps/AWS/Terraform, AI/LLM patterns, frontend & UI, and engineering & code review. MIT.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "ArieGoldkin",
+    "repoName": "claude-forge",
+    "repoBranch": "main"
   }
 }
