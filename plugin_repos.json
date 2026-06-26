@@ -2233,5 +2233,95 @@
     "repoOwner": "qiaeru",
     "repoName": "skill-prose-francaise",
     "repoBranch": "main"
+  },
+  "AgriciDaniel/claude-blog": {
+    "name": "AgriciDaniel/claude-blog",
+    "description": "Claude Code blog skill suite: 30 sub-skills, 5 agents, 5-gate v1.9.0 Blog Delivery Contract, dual-optimized for Google rankings and AI citations. Active development at AI-Marketing-Hub/claude-blog (AI Marketing Hub Pr...",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "AgriciDaniel",
+    "repoName": "claude-blog",
+    "repoBranch": "main"
+  },
+  "arabicapp/everything-claude-code": {
+    "name": "arabicapp/everything-claude-code",
+    "description": "\ud83d\ude80 Build powerful agents and configurations with the complete collection of Claude Code from an Anthropic hackathon winner, refined over 10+ months.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "arabicapp",
+    "repoName": "everything-claude-code",
+    "repoBranch": "main"
+  },
+  "wigtn/wigtn-plugins": {
+    "name": "wigtn/wigtn-plugins",
+    "description": "Claude Code Plugins for AI Native-based Engineer",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "wigtn",
+    "repoName": "wigtn-plugins",
+    "repoBranch": "main"
+  },
+  "club-cog/devin-handoff": {
+    "name": "club-cog/devin-handoff",
+    "description": "Hand off tasks to Devin \u2014 a plugin/skill for Claude Code, Codex, Cursor, and any coding agent",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "club-cog",
+    "repoName": "devin-handoff",
+    "repoBranch": "main"
+  },
+  "wayne930242/Reflexive-Claude-Code": {
+    "name": "wayne930242/Reflexive-Claude-Code",
+    "description": "A skills-driven Agentic Context Engineering / Harness Engineering workflow for Claude Code.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "wayne930242",
+    "repoName": "Reflexive-Claude-Code",
+    "repoBranch": "main"
+  },
+  "WinterDDo/claude-code-skill-autopilot": {
+    "name": "WinterDDo/claude-code-skill-autopilot",
+    "description": "Command Autopilot \u2014 use 100% of Claude Code while memorizing zero commands. Silent automation, right-moment suggestions with benefits, self-evolving to your habits.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "WinterDDo",
+    "repoName": "claude-code-skill-autopilot",
+    "repoBranch": "main"
+  },
+  "othmane55/claude-collective-intelligence": {
+    "name": "othmane55/claude-collective-intelligence",
+    "description": "\ud83e\udde0 Accelerate AI collaboration with Claude's agent swarm framework, leveraging message queues for enhanced brainstorming, voting, and mentorship.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "othmane55",
+    "repoName": "claude-collective-intelligence",
+    "repoBranch": "main"
+  },
+  "2josEx/claude-brain": {
+    "name": "2josEx/claude-brain",
+    "description": "\ud83e\udde0 Empower Claude with memory to enhance code debugging and conversation recall, turning ephemeral chats into lasting insights.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "2josEx",
+    "repoName": "claude-brain",
+    "repoBranch": "main"
+  },
+  "rhyean88/apple-platform-build-tools-claude-code-plugin": {
+    "name": "rhyean88/apple-platform-build-tools-claude-code-plugin",
+    "description": "\ud83d\ude80 Build and test Swift packages and Xcode projects for Apple platforms easily with the Claude Code plugin, enhancing your development workflow.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "rhyean88",
+    "repoName": "apple-platform-build-tools-claude-code-plugin",
+    "repoBranch": "main"
+  },
+  "dppdppd/rpm": {
+    "name": "dppdppd/rpm",
+    "description": "Relentless Project Manager \u2014 Claude Code plugin that prevents drift and keeps you on task across LLM-assisted development sessions",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "dppdppd",
+    "repoName": "rpm",
+    "repoBranch": "master"
   }
 }

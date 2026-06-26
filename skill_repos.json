@@ -2160,5 +2160,118 @@
         "name": "skills",
         "branch": "master",
         "enabled": true
+    },
+    "AgriciDaniel/claude-blog": {
+        "owner": "AgriciDaniel",
+        "name": "claude-blog",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "arabicapp/everything-claude-code": {
+        "owner": "arabicapp",
+        "name": "everything-claude-code",
+        "branch": "main",
+        "enabled": true
+    },
+    "li599198347-svg/aham-ppt": {
+        "owner": "li599198347-svg",
+        "name": "aham-ppt",
+        "branch": "main",
+        "skillsPath": "./",
+        "enabled": true
+    },
+    "wigtn/wigtn-plugins": {
+        "owner": "wigtn",
+        "name": "wigtn-plugins",
+        "branch": "main",
+        "enabled": true
+    },
+    "club-cog/devin-handoff": {
+        "owner": "club-cog",
+        "name": "devin-handoff",
+        "branch": "main",
+        "enabled": true
+    },
+    "drayline/rootnode-skills": {
+        "owner": "drayline",
+        "name": "rootnode-skills",
+        "branch": "main",
+        "enabled": true
+    },
+    "wayne930242/Reflexive-Claude-Code": {
+        "owner": "wayne930242",
+        "name": "Reflexive-Claude-Code",
+        "branch": "main",
+        "enabled": true
+    },
+    "stbarbe/agent-skills-cli": {
+        "owner": "stbarbe",
+        "name": "agent-skills-cli",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "WinterDDo/claude-code-skill-autopilot": {
+        "owner": "WinterDDo",
+        "name": "claude-code-skill-autopilot",
+        "branch": "main",
+        "enabled": true
+    },
+    "CadenceUX/claris-filemaker-pro-skill": {
+        "owner": "CadenceUX",
+        "name": "claris-filemaker-pro-skill",
+        "branch": "main",
+        "skillsPath": "./",
+        "enabled": true
+    },
+    "Louishin/claude-api-cost-optimization": {
+        "owner": "Louishin",
+        "name": "claude-api-cost-optimization",
+        "branch": "main",
+        "skillsPath": "./",
+        "enabled": true
+    },
+    "izyanrajwani/agent-skills-library": {
+        "owner": "izyanrajwani",
+        "name": "agent-skills-library",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "othmane55/claude-collective-intelligence": {
+        "owner": "othmane55",
+        "name": "claude-collective-intelligence",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "lyx2022518/sherlock-ai-plugin": {
+        "owner": "lyx2022518",
+        "name": "sherlock-ai-plugin",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "bg-szy/TOP-SKILLS": {
+        "owner": "bg-szy",
+        "name": "TOP-SKILLS",
+        "branch": "master",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "rhyean88/apple-platform-build-tools-claude-code-plugin": {
+        "owner": "rhyean88",
+        "name": "apple-platform-build-tools-claude-code-plugin",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "dppdppd/rpm": {
+        "owner": "dppdppd",
+        "name": "rpm",
+        "branch": "master",
+        "skillsPath": "skills",
+        "enabled": true
     }
 }

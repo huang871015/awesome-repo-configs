@@ -632,5 +632,40 @@
     "branch": "main",
     "agentsPath": "agents",
     "enabled": true
+  },
+  "AgriciDaniel/claude-blog": {
+    "owner": "AgriciDaniel",
+    "name": "claude-blog",
+    "branch": "main",
+    "agentsPath": "agents",
+    "enabled": true
+  },
+  "arabicapp/everything-claude-code": {
+    "owner": "arabicapp",
+    "name": "everything-claude-code",
+    "branch": "main",
+    "agentsPath": "agents",
+    "enabled": true
+  },
+  "othmane55/claude-collective-intelligence": {
+    "owner": "othmane55",
+    "name": "claude-collective-intelligence",
+    "branch": "main",
+    "agentsPath": "agents",
+    "enabled": true
+  },
+  "rhyean88/apple-platform-build-tools-claude-code-plugin": {
+    "owner": "rhyean88",
+    "name": "apple-platform-build-tools-claude-code-plugin",
+    "branch": "main",
+    "agentsPath": "agents",
+    "enabled": true
+  },
+  "dppdppd/rpm": {
+    "owner": "dppdppd",
+    "name": "rpm",
+    "branch": "master",
+    "agentsPath": "agents",
+    "enabled": true
   }
 }
