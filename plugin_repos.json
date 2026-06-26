@@ -2323,5 +2323,59 @@
     "repoOwner": "dppdppd",
     "repoName": "rpm",
     "repoBranch": "master"
+  },
+  "naveedharri/benai-skills": {
+    "name": "naveedharri/benai-skills",
+    "description": "naveedharri/benai-skills \u2014 plugin marketplace.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "naveedharri",
+    "repoName": "benai-skills",
+    "repoBranch": "develop"
+  },
+  "scdenney/open-science-skills": {
+    "name": "scdenney/open-science-skills",
+    "description": "A library of Agentic Skills for Claude Code and LLM agents, codified from social science standards and methodological texts for doing experimental and other kinds of work.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "scdenney",
+    "repoName": "open-science-skills",
+    "repoBranch": "main"
+  },
+  "livlign/claude-skills": {
+    "name": "livlign/claude-skills",
+    "description": "Claude Code skill for generating animated hero GIFs for GitHub repos",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "livlign",
+    "repoName": "claude-skills",
+    "repoBranch": "main"
+  },
+  "immacualate/claude-forge": {
+    "name": "immacualate/claude-forge",
+    "description": "Transform Claude Code into a complete development environment for efficient coding and project management.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "immacualate",
+    "repoName": "claude-forge",
+    "repoBranch": "main"
+  },
+  "martin1847/evolab": {
+    "name": "martin1847/evolab",
+    "description": "A\u00b2 \u00b7 Agentic AI \u00d7 Anything\uff1a\u591a agent \u7f16\u6392\u65b9\u6cd5\u8bba\u4e0e\u6cbb\u7406 skill \u5408\u96c6\uff08\u65d7\u8230 cto-orchestration\uff09",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "martin1847",
+    "repoName": "evolab",
+    "repoBranch": "main"
+  },
+  "unvulcanised-watercress762/mem9": {
+    "name": "unvulcanised-watercress762/mem9",
+    "description": "Enable AI agents to retain memory across sessions using persistent storage designed for continuous context retention.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "unvulcanised-watercress762",
+    "repoName": "mem9",
+    "repoBranch": "main"
   }
 }

@@ -2273,5 +2273,139 @@
         "branch": "master",
         "skillsPath": "skills",
         "enabled": true
+    },
+    "nolangz/pixel2motion": {
+        "owner": "nolangz",
+        "name": "pixel2motion",
+        "branch": "main",
+        "skillsPath": "./",
+        "enabled": true
+    },
+    "Junliu1066/vibe-coding-kit": {
+        "owner": "Junliu1066",
+        "name": "vibe-coding-kit",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "dream-num/skills": {
+        "owner": "dream-num",
+        "name": "skills",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "naveedharri/benai-skills": {
+        "owner": "naveedharri",
+        "name": "benai-skills",
+        "branch": "develop",
+        "enabled": true
+    },
+    "scdenney/open-science-skills": {
+        "owner": "scdenney",
+        "name": "open-science-skills",
+        "branch": "main",
+        "enabled": true
+    },
+    "livlign/claude-skills": {
+        "owner": "livlign",
+        "name": "claude-skills",
+        "branch": "main",
+        "enabled": true
+    },
+    "SumanasJ/coc-kp-host": {
+        "owner": "SumanasJ",
+        "name": "coc-kp-host",
+        "branch": "main",
+        "skillsPath": "./",
+        "enabled": true
+    },
+    "immacualate/claude-forge": {
+        "owner": "immacualate",
+        "name": "claude-forge",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "martin1847/evolab": {
+        "owner": "martin1847",
+        "name": "evolab",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "Aditya923-c/xpoz-agent-skills": {
+        "owner": "Aditya923-c",
+        "name": "xpoz-agent-skills",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "unvulcanised-watercress762/mem9": {
+        "owner": "unvulcanised-watercress762",
+        "name": "mem9",
+        "branch": "main",
+        "enabled": true
+    },
+    "opencue/cuecards": {
+        "owner": "opencue",
+        "name": "cuecards",
+        "branch": "main",
+        "skillsPath": ".claude/skills",
+        "enabled": true
+    },
+    "hssh8917/cc-skills": {
+        "owner": "hssh8917",
+        "name": "cc-skills",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "dizhouid-lgtm/liepin-ai-recruiting": {
+        "owner": "dizhouid-lgtm",
+        "name": "liepin-ai-recruiting",
+        "branch": "main",
+        "skillsPath": ".claude/skills",
+        "enabled": true
+    },
+    "Logiiiii/unity-agent-skills": {
+        "owner": "Logiiiii",
+        "name": "unity-agent-skills",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "LLl0k0laD/agent-skills": {
+        "owner": "LLl0k0laD",
+        "name": "agent-skills",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "suxuemi/allincms-content-ops": {
+        "owner": "suxuemi",
+        "name": "allincms-content-ops",
+        "branch": "main",
+        "enabled": true
+    },
+    "Marwane83930/structured-prompt-skill": {
+        "owner": "Marwane83930",
+        "name": "structured-prompt-skill",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "avilaok8647/ai-friendly-web-design-skill": {
+        "owner": "avilaok8647",
+        "name": "ai-friendly-web-design-skill",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "satbirbhbc-ux/ai-coding-principles": {
+        "owner": "satbirbhbc-ux",
+        "name": "ai-coding-principles",
+        "branch": "main",
+        "enabled": true
     }
 }
