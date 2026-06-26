@@ -1,4 +1,13 @@
 {
+  "smartin-compass": {
+    "name": "smartin-compass",
+    "description": "Catch raw ideas as they come, see which ones are worth checking, and get one clean weekly Finding worth forwarding. Local-first and free. Built on the Smartin Compass 6-tile method.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "martinsoucekhbhuzg",
+    "repoName": "smartin-marketplace",
+    "repoBranch": "main"
+  },
   "sitemd": {
     "name": "sitemd",
     "description": "Build websites from Markdown. MCP server and Claude Code plugin with 22 tools for creating pages, generating content, configuring settings, and deploying static sites.",
