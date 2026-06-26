@@ -723,5 +723,12 @@
     "branch": "main",
     "agentsPath": "agents",
     "enabled": true
+  },
+  "igorrendulic/tg-customer-support-plugin": {
+    "owner": "igorrendulic",
+    "name": "tg-customer-support-plugin",
+    "branch": "main",
+    "agentsPath": "agents",
+    "enabled": true
   }
 }

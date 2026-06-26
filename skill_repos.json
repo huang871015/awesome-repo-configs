@@ -2505,5 +2505,121 @@
         "branch": "main",
         "skillsPath": "skills",
         "enabled": true
+    },
+    "rampstackco/claude-skills": {
+        "owner": "rampstackco",
+        "name": "claude-skills",
+        "branch": "main",
+        "enabled": true
+    },
+    "artokun/comfyui-mcp": {
+        "owner": "artokun",
+        "name": "comfyui-mcp",
+        "branch": "main",
+        "enabled": true
+    },
+    "fseixas/super-geo-agent-readiness": {
+        "owner": "fseixas",
+        "name": "super-geo-agent-readiness",
+        "branch": "main",
+        "enabled": true
+    },
+    "ij5a/subrosa": {
+        "owner": "ij5a",
+        "name": "subrosa",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "mightyhuman101/seedance2-skill": {
+        "owner": "mightyhuman101",
+        "name": "seedance2-skill",
+        "branch": "main",
+        "skillsPath": "./",
+        "enabled": true
+    },
+    "zacklecon/claude-skills": {
+        "owner": "zacklecon",
+        "name": "claude-skills",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "chrislacey89/skills": {
+        "owner": "chrislacey89",
+        "name": "skills",
+        "branch": "prod",
+        "enabled": true
+    },
+    "igorrendulic/tg-customer-support-plugin": {
+        "owner": "igorrendulic",
+        "name": "tg-customer-support-plugin",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "kryptobesteuern/claude-fuer-krypto-und-steuern": {
+        "owner": "kryptobesteuern",
+        "name": "claude-fuer-krypto-und-steuern",
+        "branch": "main",
+        "enabled": true
+    },
+    "morganmuli/metaskill": {
+        "owner": "morganmuli",
+        "name": "metaskill",
+        "branch": "main",
+        "enabled": true
+    },
+    "jposluns/grc_library": {
+        "owner": "jposluns",
+        "name": "grc_library",
+        "branch": "main",
+        "enabled": true
+    },
+    "jafini/learn-claude-code": {
+        "owner": "jafini",
+        "name": "learn-claude-code",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "Jeremyx000/claude-session-index": {
+        "owner": "Jeremyx000",
+        "name": "claude-session-index",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "netopsengineer/axiom": {
+        "owner": "netopsengineer",
+        "name": "axiom",
+        "branch": "main",
+        "enabled": true
+    },
+    "brennacodes/brenna-plugs": {
+        "owner": "brennacodes",
+        "name": "brenna-plugs",
+        "branch": "main",
+        "enabled": true
+    },
+    "amjad1233/claude-skills": {
+        "owner": "amjad1233",
+        "name": "claude-skills",
+        "branch": "main",
+        "skillsPath": ".claude/skills",
+        "enabled": true
+    },
+    "tony/ai-workflow-plugins": {
+        "owner": "tony",
+        "name": "ai-workflow-plugins",
+        "branch": "main",
+        "enabled": true
+    },
+    "qiaeru/skills-github": {
+        "owner": "qiaeru",
+        "name": "skills-github",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
     }
 }

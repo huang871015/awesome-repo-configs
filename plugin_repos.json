@@ -2485,5 +2485,104 @@
     "repoOwner": "vanducng",
     "repoName": "skills",
     "repoBranch": "main"
+  },
+  "rampstackco/claude-skills": {
+    "name": "rampstackco/claude-skills",
+    "description": "Stack-agnostic Claude Skills covering the full website lifecycle: brand, design, content, SEO, dev, ops, growth, and research. Build, ship, audit, optimize.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "rampstackco",
+    "repoName": "claude-skills",
+    "repoBranch": "main"
+  },
+  "artokun/comfyui-mcp": {
+    "name": "artokun/comfyui-mcp",
+    "description": "Claude Code plugin + MCP server for ComfyUI \u2014 88 tools, 14 AI skills (Flux, WAN, LTX video, Qwen), live graph editing from your Claude session. Generate images & video, manage models and custom nodes.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "artokun",
+    "repoName": "comfyui-mcp",
+    "repoBranch": "main"
+  },
+  "ij5a/subrosa": {
+    "name": "ij5a/subrosa",
+    "description": "Persistent, private memory for Claude Code \u2014 every session archived locally, searchable. Sub rosa.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "ij5a",
+    "repoName": "subrosa",
+    "repoBranch": "main"
+  },
+  "kryptobesteuern/claude-fuer-krypto-und-steuern": {
+    "name": "kryptobesteuern/claude-fuer-krypto-und-steuern",
+    "description": "\u26a0\ufe0f Experimentelle Skill-Sammlung f\u00fcr deutsches Krypto-Steuer- und Aufsichtsrecht (EStG \u00a7 23, Mining/Staking/DeFi/NFTs, MiCAR, BaFin-Erlaubnis, AML/KYC) \u2013 bitte selbst testen, Issues/PRs willkommen! Keine Steuer-/Recht...",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "kryptobesteuern",
+    "repoName": "claude-fuer-krypto-und-steuern",
+    "repoBranch": "main"
+  },
+  "fcms14/agents-foundation": {
+    "name": "fcms14/agents-foundation",
+    "description": "A reusable foundation for AI-driven software delivery \u2014 a plug-in product & engineering team (delivery-team) that runs a markdown-kanban way of working with deterministic review/board/docs gates, plus opinionated tech...",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "fcms14",
+    "repoName": "agents-foundation",
+    "repoBranch": "main"
+  },
+  "netopsengineer/axiom": {
+    "name": "netopsengineer/axiom",
+    "description": "A curated marketplace of plugins for Claude Code, built from first principles.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "netopsengineer",
+    "repoName": "axiom",
+    "repoBranch": "main"
+  },
+  "brennacodes/brenna-plugs": {
+    "name": "brennacodes/brenna-plugs",
+    "description": "A plugin ecosystem for a composable, portable, interactive knowledge system that grows with you",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "brennacodes",
+    "repoName": "brenna-plugs",
+    "repoBranch": "main"
+  },
+  "amjad1233/claude-skills": {
+    "name": "amjad1233/claude-skills",
+    "description": "Open-source Claude Code skills marketplace \u2014 agent-army, claude-continuation, and more. Add once, install whichever you want. claude-skills.amjad1233.com",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "amjad1233",
+    "repoName": "claude-skills",
+    "repoBranch": "main"
+  },
+  "replica0909xx/oh-my-claude": {
+    "name": "replica0909xx/oh-my-claude",
+    "description": "\ud83e\udd16 Automate AI development with \"oh-my-claude,\" a plugin for efficient iterative loops that optimize token usage and enhance productivity.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "replica0909xx",
+    "repoName": "oh-my-claude",
+    "repoBranch": "main"
+  },
+  "tony/ai-workflow-plugins": {
+    "name": "tony/ai-workflow-plugins",
+    "description": "Claude Code Plugins, Commands, and Skills",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "tony",
+    "repoName": "ai-workflow-plugins",
+    "repoBranch": "main"
+  },
+  "qiaeru/skills-github": {
+    "name": "qiaeru/skills-github",
+    "description": "Reusable Claude Code skills for managing public GitHub repos at commit, push, and release time, plus the generic repo files every project should carry.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "qiaeru",
+    "repoName": "skills-github",
+    "repoBranch": "main"
   }
 }
