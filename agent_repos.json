@@ -814,5 +814,33 @@
     "branch": "main",
     "agentsPath": ".claude/agents",
     "enabled": true
+  },
+  "DheerG/swarms": {
+    "owner": "DheerG",
+    "name": "swarms",
+    "branch": "main",
+    "agentsPath": "agents",
+    "enabled": true
+  },
+  "Ocean1346/bigquery-expert": {
+    "owner": "Ocean1346",
+    "name": "bigquery-expert",
+    "branch": "main",
+    "agentsPath": "agents",
+    "enabled": true
+  },
+  "Mationetap/claude-agents-forge": {
+    "owner": "Mationetap",
+    "name": "claude-agents-forge",
+    "branch": "main",
+    "agentsPath": "agents",
+    "enabled": true
+  },
+  "Acuminate-conventionality909/aibti": {
+    "owner": "Acuminate-conventionality909",
+    "name": "aibti",
+    "branch": "main",
+    "agentsPath": "agents",
+    "enabled": true
   }
 }

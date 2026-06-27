@@ -2800,5 +2800,41 @@
     "repoOwner": "claude-hangar",
     "repoName": "claude-hangar",
     "repoBranch": "main"
+  },
+  "DheerG/swarms": {
+    "name": "DheerG/swarms",
+    "description": "Achieve extraordinary results with claude code across a variety of tasks",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "DheerG",
+    "repoName": "swarms",
+    "repoBranch": "main"
+  },
+  "freestyler-arb/gemini-for-claude-and-codex": {
+    "name": "freestyler-arb/gemini-for-claude-and-codex",
+    "description": "Delegate reasoning, code review, and research to Google Gemini from Claude Code & Codex \u2014 on your Google AI Pro subscription via the Antigravity CLI (agy), not your agent's tokens.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "freestyler-arb",
+    "repoName": "gemini-for-claude-and-codex",
+    "repoBranch": "main"
+  },
+  "kennguyen887/agent-foundation": {
+    "name": "kennguyen887/agent-foundation",
+    "description": "Claude Code skills marketplace \u2014 backend & frontend engineering conventions + step-by-step third-party integration recipes: Stripe, Rapyd, CyberSource, UOB & wallet payments, Singpass/Keycloak OIDC & 3-D Secure, Twili...",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "kennguyen887",
+    "repoName": "agent-foundation",
+    "repoBranch": "main"
+  },
+  "limited-grisaille833/claude-java-plugins": {
+    "name": "limited-grisaille833/claude-java-plugins",
+    "description": "Boost Claude Code with Java plugins for Java 8\u201321 projects, including core, Spring, and quality checks tailored to your target version",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "limited-grisaille833",
+    "repoName": "claude-java-plugins",
+    "repoBranch": "main"
   }
 }

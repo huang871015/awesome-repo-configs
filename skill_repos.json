@@ -3005,5 +3005,152 @@
         "branch": "main",
         "skillsPath": ".claude/skills",
         "enabled": true
+    },
+    "ombulabs/claude-code_rails-upgrade-skill": {
+        "owner": "ombulabs",
+        "name": "claude-code_rails-upgrade-skill",
+        "branch": "main",
+        "enabled": true
+    },
+    "DheerG/swarms": {
+        "owner": "DheerG",
+        "name": "swarms",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "mnyok9939/specdd": {
+        "owner": "mnyok9939",
+        "name": "specdd",
+        "branch": "main",
+        "enabled": true
+    },
+    "freestyler-arb/gemini-for-claude-and-codex": {
+        "owner": "freestyler-arb",
+        "name": "gemini-for-claude-and-codex",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "10CG/Aria": {
+        "owner": "10CG",
+        "name": "Aria",
+        "branch": "master",
+        "enabled": true
+    },
+    "Cash4478/design-system-skill": {
+        "owner": "Cash4478",
+        "name": "design-system-skill",
+        "branch": "main",
+        "skillsPath": "./",
+        "enabled": true
+    },
+    "offensive-tarichagranulosa259/seo-data": {
+        "owner": "offensive-tarichagranulosa259",
+        "name": "seo-data",
+        "branch": "main",
+        "skillsPath": "./",
+        "enabled": true
+    },
+    "flakey-caster542/superseo-skills": {
+        "owner": "flakey-caster542",
+        "name": "superseo-skills",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "Ocean1346/bigquery-expert": {
+        "owner": "Ocean1346",
+        "name": "bigquery-expert",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "Kara-lynnmacroeconomic2412/paper-fetch": {
+        "owner": "Kara-lynnmacroeconomic2412",
+        "name": "paper-fetch",
+        "branch": "main",
+        "skillsPath": "./",
+        "enabled": true
+    },
+    "kennguyen887/agent-foundation": {
+        "owner": "kennguyen887",
+        "name": "agent-foundation",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "anitagraviti-sys/swarmvault": {
+        "owner": "anitagraviti-sys",
+        "name": "swarmvault",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "Acuminate-conventionality909/aibti": {
+        "owner": "Acuminate-conventionality909",
+        "name": "aibti",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "Highlydeveloped-trowel635/context-graph-compressor": {
+        "owner": "Highlydeveloped-trowel635",
+        "name": "context-graph-compressor",
+        "branch": "main",
+        "skillsPath": "./",
+        "enabled": true
+    },
+    "kongma1891/microsoft-style-skill": {
+        "owner": "kongma1891",
+        "name": "microsoft-style-skill",
+        "branch": "main",
+        "skillsPath": "./",
+        "enabled": true
+    },
+    "kierstenicy452/anti-ai-writing": {
+        "owner": "kierstenicy452",
+        "name": "anti-ai-writing",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "felipedeso7za4444/scientific-thinking-general": {
+        "owner": "felipedeso7za4444",
+        "name": "scientific-thinking-general",
+        "branch": "main",
+        "skillsPath": "./",
+        "enabled": true
+    },
+    "adrianohenriqueuna-pixel/printkk-agent-skill": {
+        "owner": "adrianohenriqueuna-pixel",
+        "name": "printkk-agent-skill",
+        "branch": "main",
+        "enabled": true
+    },
+    "Einherjar99/bggg-skill-taotie": {
+        "owner": "Einherjar99",
+        "name": "bggg-skill-taotie",
+        "branch": "main",
+        "skillsPath": "./",
+        "enabled": true
+    },
+    "noman3271/caveman": {
+        "owner": "noman3271",
+        "name": "caveman",
+        "branch": "main",
+        "enabled": true
+    },
+    "limited-grisaille833/claude-java-plugins": {
+        "owner": "limited-grisaille833",
+        "name": "claude-java-plugins",
+        "branch": "main",
+        "enabled": true
+    },
+    "Xza2792/ui-ux-audit-skill": {
+        "owner": "Xza2792",
+        "name": "ui-ux-audit-skill",
+        "branch": "main",
+        "enabled": true
     }
 }
