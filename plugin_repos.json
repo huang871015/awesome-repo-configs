@@ -1,4 +1,13 @@
 {
+  "4-successful-ai-life": {
+    "name": "4 Successful AI Life",
+    "description": "Curated Claude Code plugin marketplace — UI/UX excellence, session auto-naming & handoff, and prompt engineering.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "fernando-bertholdo",
+    "repoName": "4-successful-AI-life",
+    "repoBranch": "main"
+  },
   "smartin-compass": {
     "name": "smartin-compass",
     "description": "Catch raw ideas as they come, see which ones are worth checking, and get one clean weekly Finding worth forwarding. Local-first and free. Built on the Smartin Compass 6-tile method.",
