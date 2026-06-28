@@ -3255,5 +3255,12 @@
         "branch": "main",
         "skillsPath": "skills",
         "enabled": true
+    },
+    "scaccogatto/okf-skills": {
+        "owner": "scaccogatto",
+        "name": "okf-skills",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
     }
 }
