@@ -3525,5 +3525,101 @@
         "name": "cc-plugins",
         "branch": "main",
         "enabled": true
+    },
+    "A/claude-booping": {
+        "owner": "A",
+        "name": "claude-booping",
+        "branch": "master",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "andreilungeanu/cursor-acp-bridge": {
+        "owner": "andreilungeanu",
+        "name": "cursor-acp-bridge",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "toni7891/DeployGuard": {
+        "owner": "toni7891",
+        "name": "DeployGuard",
+        "branch": "main",
+        "enabled": true
+    },
+    "jajupmochi/claude-config": {
+        "owner": "jajupmochi",
+        "name": "claude-config",
+        "branch": "main",
+        "enabled": true
+    },
+    "Stoica-Mihai/claude-skills": {
+        "owner": "Stoica-Mihai",
+        "name": "claude-skills",
+        "branch": "main",
+        "enabled": true
+    },
+    "Naz1anmak/claude-code-notifications": {
+        "owner": "Naz1anmak",
+        "name": "claude-code-notifications",
+        "branch": "main",
+        "skillsPath": "./",
+        "enabled": true
+    },
+    "m-esm/bambu-3mf-export": {
+        "owner": "m-esm",
+        "name": "bambu-3mf-export",
+        "branch": "main",
+        "skillsPath": "./",
+        "enabled": true
+    },
+    "m-esm/3d-print-modeling": {
+        "owner": "m-esm",
+        "name": "3d-print-modeling",
+        "branch": "main",
+        "skillsPath": "./",
+        "enabled": true
+    },
+    "grimaldost/craft-collection": {
+        "owner": "grimaldost",
+        "name": "craft-collection",
+        "branch": "main",
+        "enabled": true
+    },
+    "chienchuanw/chuan-skills": {
+        "owner": "chienchuanw",
+        "name": "chuan-skills",
+        "branch": "main",
+        "enabled": true
+    },
+    "weakened-fixedinvestmenttrust229/pm-skills-ko": {
+        "owner": "weakened-fixedinvestmenttrust229",
+        "name": "pm-skills-ko",
+        "branch": "main",
+        "enabled": true
+    },
+    "murtazatouqeer/f5-framework-claude": {
+        "owner": "murtazatouqeer",
+        "name": "f5-framework-claude",
+        "branch": "main",
+        "enabled": true
+    },
+    "HOKlNG/zzon-doc": {
+        "owner": "HOKlNG",
+        "name": "zzon-doc",
+        "branch": "main",
+        "enabled": true
+    },
+    "fullymiddleaged/Clawness": {
+        "owner": "fullymiddleaged",
+        "name": "Clawness",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "bim-ba/ai": {
+        "owner": "bim-ba",
+        "name": "ai",
+        "branch": "main",
+        "enabled": true
     }
 }

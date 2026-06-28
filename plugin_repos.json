@@ -3133,5 +3133,131 @@
     "repoOwner": "gdm257",
     "repoName": "cc-plugins",
     "repoBranch": "main"
+  },
+  "A/claude-booping": {
+    "name": "A/claude-booping",
+    "description": "Self-learning scrum workflow for Claude Code",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "A",
+    "repoName": "claude-booping",
+    "repoBranch": "master"
+  },
+  "andreilungeanu/cursor-acp-bridge": {
+    "name": "andreilungeanu/cursor-acp-bridge",
+    "description": "Claude Code plugin: delegate implementation to Cursor, plan or build, review the diff. Claude stays in the driver\u2019s seat.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "andreilungeanu",
+    "repoName": "cursor-acp-bridge",
+    "repoBranch": "main"
+  },
+  "jajupmochi/claude-config": {
+    "name": "jajupmochi/claude-config",
+    "description": "Linlin's curated Claude Code configuration: workflow rules, skills, hooks, plugin recommendations, tooling preferences, and project templates. Loadable into any new project so a fresh /init can pick the relevant subset.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "jajupmochi",
+    "repoName": "claude-config",
+    "repoBranch": "main"
+  },
+  "Stoica-Mihai/claude-skills": {
+    "name": "Stoica-Mihai/claude-skills",
+    "description": "Curated Claude Code plugin marketplace \u2014 OpenSpec extensions and autonomous development workflows",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "Stoica-Mihai",
+    "repoName": "claude-skills",
+    "repoBranch": "main"
+  },
+  "m-esm/bambu-3mf-export": {
+    "name": "m-esm/bambu-3mf-export",
+    "description": "Claude Code skill: export STL meshes to sliceable Bambu Studio .3mf projects with print settings baked in, parts packed across named plates.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "m-esm",
+    "repoName": "bambu-3mf-export",
+    "repoBranch": "main"
+  },
+  "m-esm/3d-print-modeling": {
+    "name": "m-esm/3d-print-modeling",
+    "description": "Claude Code skill: parametric FDM 3D-print modeling with a headless view-screenshot-iterate loop (trimesh/manifold3d/build123d).",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "m-esm",
+    "repoName": "3d-print-modeling",
+    "repoBranch": "main"
+  },
+  "grimaldost/craft-collection": {
+    "name": "grimaldost/craft-collection",
+    "description": "A Claude Code plugin marketplace that codifies engineering craft: disciplined Python and data-engineering practice alongside deliberate session-knowledge workflows, packaged as reusable skills.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "grimaldost",
+    "repoName": "craft-collection",
+    "repoBranch": "main"
+  },
+  "chienchuanw/chuan-skills": {
+    "name": "chienchuanw/chuan-skills",
+    "description": "Personal plugin marketplace of Claude Code skills (slash commands)",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "chienchuanw",
+    "repoName": "chuan-skills",
+    "repoBranch": "main"
+  },
+  "weakened-fixedinvestmenttrust229/pm-skills-ko": {
+    "name": "weakened-fixedinvestmenttrust229/pm-skills-ko",
+    "description": "Provide structured AI-powered PM skills in Korean to improve product decisions from discovery to growth with Claude Code and Cowork integration.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "weakened-fixedinvestmenttrust229",
+    "repoName": "pm-skills-ko",
+    "repoBranch": "main"
+  },
+  "murtazatouqeer/f5-framework-claude": {
+    "name": "murtazatouqeer/f5-framework-claude",
+    "description": "\ud83e\udd16 Boost your development with the F5 Framework for Claude Code, featuring powerful commands and plugins for efficient AI-powered coding and quality assurance.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "murtazatouqeer",
+    "repoName": "f5-framework-claude",
+    "repoBranch": "main"
+  },
+  "HOKlNG/zzon-doc": {
+    "name": "HOKlNG/zzon-doc",
+    "description": "Claude Code plugin that turns your codebase into interactive, dependency-free architecture diagrams (infra \u00b7 data-flow \u00b7 ERD \u00b7 agent topology) as a single self-contained HTML.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "HOKlNG",
+    "repoName": "zzon-doc",
+    "repoBranch": "main"
+  },
+  "yura-okilka/claude-plugins": {
+    "name": "yura-okilka/claude-plugins",
+    "description": "Personal Claude Code plugin marketplace.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "yura-okilka",
+    "repoName": "claude-plugins",
+    "repoBranch": "main"
+  },
+  "fullymiddleaged/Clawness": {
+    "name": "fullymiddleaged/Clawness",
+    "description": "Lightweight, zero-infrastructure rule retrieval for Claude Code - a guardrail layer that injects the right coding standards into every prompt, with a plan gate, output compression, and adversarial review agents.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "fullymiddleaged",
+    "repoName": "Clawness",
+    "repoBranch": "main"
+  },
+  "bim-ba/ai": {
+    "name": "bim-ba/ai",
+    "description": "Claude Code & opencode plugin marketplace \u2014 agent-behavior, workflow & data-engineering skills.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "bim-ba",
+    "repoName": "ai",
+    "repoBranch": "main"
   }
 }

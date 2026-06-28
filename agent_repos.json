@@ -877,5 +877,19 @@
     "branch": "main",
     "agentsPath": "agents",
     "enabled": true
+  },
+  "A/claude-booping": {
+    "owner": "A",
+    "name": "claude-booping",
+    "branch": "master",
+    "agentsPath": "agents",
+    "enabled": true
+  },
+  "fullymiddleaged/Clawness": {
+    "owner": "fullymiddleaged",
+    "name": "Clawness",
+    "branch": "main",
+    "agentsPath": "agents",
+    "enabled": true
   }
 }
