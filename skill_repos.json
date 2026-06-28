@@ -1,4 +1,11 @@
 {
+    "Bria-AI/bria-skill": {
+        "owner": "Bria-AI",
+        "name": "bria-skill",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
     "ndesv21/socialclaw": {
         "owner": "ndesv21",
         "name": "socialclaw",
