@@ -842,5 +842,26 @@
     "branch": "main",
     "agentsPath": "agents",
     "enabled": true
+  },
+  "hypnguyen1209/offensive-claude": {
+    "owner": "hypnguyen1209",
+    "name": "offensive-claude",
+    "branch": "main",
+    "agentsPath": "agents",
+    "enabled": true
+  },
+  "Houseofmvps/ultraship": {
+    "owner": "Houseofmvps",
+    "name": "ultraship",
+    "branch": "main",
+    "agentsPath": "agents",
+    "enabled": true
+  },
+  "7xuanlu/ultrapowers": {
+    "owner": "7xuanlu",
+    "name": "ultrapowers",
+    "branch": "main",
+    "agentsPath": ".claude/agents",
+    "enabled": true
   }
 }

@@ -3152,5 +3152,108 @@
         "name": "ui-ux-audit-skill",
         "branch": "main",
         "enabled": true
+    },
+    "malob/nix-config": {
+        "owner": "malob",
+        "name": "nix-config",
+        "branch": "master",
+        "enabled": true
+    },
+    "hypnguyen1209/offensive-claude": {
+        "owner": "hypnguyen1209",
+        "name": "offensive-claude",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "Houseofmvps/ultraship": {
+        "owner": "Houseofmvps",
+        "name": "ultraship",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "smixs/skill-conductor": {
+        "owner": "smixs",
+        "name": "skill-conductor",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "drhalto/agentmako": {
+        "owner": "drhalto",
+        "name": "agentmako",
+        "branch": "main",
+        "enabled": true
+    },
+    "huangwb8/skills": {
+        "owner": "huangwb8",
+        "name": "skills",
+        "branch": "main",
+        "enabled": true
+    },
+    "7xuanlu/ultrapowers": {
+        "owner": "7xuanlu",
+        "name": "ultrapowers",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "iampantherr/SecureContext": {
+        "owner": "iampantherr",
+        "name": "SecureContext",
+        "branch": "main",
+        "enabled": true
+    },
+    "sapdev-ai/sap-dev": {
+        "owner": "sapdev-ai",
+        "name": "sap-dev",
+        "branch": "main",
+        "enabled": true
+    },
+    "veekunth217/claude-scaffold-skill": {
+        "owner": "veekunth217",
+        "name": "claude-scaffold-skill",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "fworks-tech/agenthood": {
+        "owner": "fworks-tech",
+        "name": "agenthood",
+        "branch": "main",
+        "enabled": true
+    },
+    "tchow-twistedxcom/claude-marketplace": {
+        "owner": "tchow-twistedxcom",
+        "name": "claude-marketplace",
+        "branch": "main",
+        "enabled": true
+    },
+    "All-The-Vibes/TokenMasterX": {
+        "owner": "All-The-Vibes",
+        "name": "TokenMasterX",
+        "branch": "master",
+        "enabled": true
+    },
+    "shimo4228/search-first": {
+        "owner": "shimo4228",
+        "name": "search-first",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "adamjali/claude-skills": {
+        "owner": "adamjali",
+        "name": "claude-skills",
+        "branch": "main",
+        "enabled": true
+    },
+    "shimo4228/skill-stocktake": {
+        "owner": "shimo4228",
+        "name": "skill-stocktake",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
     }
 }

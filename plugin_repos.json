@@ -2836,5 +2836,113 @@
     "repoOwner": "limited-grisaille833",
     "repoName": "claude-java-plugins",
     "repoBranch": "main"
+  },
+  "malob/nix-config": {
+    "name": "malob/nix-config",
+    "description": "My Nix system configs!",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "malob",
+    "repoName": "nix-config",
+    "repoBranch": "master"
+  },
+  "Houseofmvps/ultraship": {
+    "name": "Houseofmvps/ultraship",
+    "description": "\"ULTRASHIP\" Claude Code plugin \u2014 39 skills, 33 tools, 11 agents for ship-ready workflows: planning, review, pentesting, safety guardrails, canary monitoring, SEO/AI-readiness check, penetration testing, code review, c...",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "Houseofmvps",
+    "repoName": "ultraship",
+    "repoBranch": "main"
+  },
+  "smixs/skill-conductor": {
+    "name": "smixs/skill-conductor",
+    "description": "Architecture-first skill lifecycle for AI agents. 5 modes: CREATE \u2192 EVAL \u2192 EDIT \u2192 REVIEW \u2192 PACKAGE. Integrates Anthropic's eval engine (grader/comparator/analyzer agents, blind A/B, benchmarks) with architecture patte...",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "smixs",
+    "repoName": "skill-conductor",
+    "repoBranch": "main"
+  },
+  "drhalto/agentmako": {
+    "name": "drhalto/agentmako",
+    "description": "Local-first MCP server that gives coding agents structured context packets, code/schema facts, and diagnostics - backed by a local SQLite store.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "drhalto",
+    "repoName": "agentmako",
+    "repoBranch": "main"
+  },
+  "7xuanlu/ultrapowers": {
+    "name": "7xuanlu/ultrapowers",
+    "description": "A dynamic build workflow for Claude Code: plan a goal into tasks, build each test-first, review every step, loop a critic until done, then hand back a branch ready for review. Built on Superpowers.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "7xuanlu",
+    "repoName": "ultrapowers",
+    "repoBranch": "main"
+  },
+  "sapdev-ai/sap-dev": {
+    "name": "sapdev-ai/sap-dev",
+    "description": "SAP GUI automation plugins for AI coding assistants",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "sapdev-ai",
+    "repoName": "sap-dev",
+    "repoBranch": "main"
+  },
+  "fworks-tech/agenthood": {
+    "name": "fworks-tech/agenthood",
+    "description": "A society of AI agents with impeccable standards and zero tolerance for 'fix stuff' commits.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "fworks-tech",
+    "repoName": "agenthood",
+    "repoBranch": "main"
+  },
+  "tchow-twistedxcom/claude-marketplace": {
+    "name": "tchow-twistedxcom/claude-marketplace",
+    "description": "Personal curated Claude Code marketplace with SuperClaude framework, Chrome DevTools, NetSuite workflows, and community plugins",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "tchow-twistedxcom",
+    "repoName": "claude-marketplace",
+    "repoBranch": "main"
+  },
+  "All-The-Vibes/TokenMasterX": {
+    "name": "All-The-Vibes/TokenMasterX",
+    "description": "TokenMaster makes AI coding agents understand your codebase once and remember it - up to 7.8x fewer tokens.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "All-The-Vibes",
+    "repoName": "TokenMasterX",
+    "repoBranch": "master"
+  },
+  "shimo4228/search-first": {
+    "name": "shimo4228/search-first",
+    "description": "Claude Code skill: forces agents to research existing solutions before building \u2014 reduces reinvention",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "shimo4228",
+    "repoName": "search-first",
+    "repoBranch": "main"
+  },
+  "adamjali/claude-skills": {
+    "name": "adamjali/claude-skills",
+    "description": "Practical Claude Code skills as installable plugins \u2014 research & teardowns, web build/deploy, image search, repo audit, disk cleanup, outreach, email broadcasts, and a skill generator.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "adamjali",
+    "repoName": "claude-skills",
+    "repoBranch": "main"
+  },
+  "shimo4228/skill-stocktake": {
+    "name": "shimo4228/skill-stocktake",
+    "description": "Claude Code skill: audits installed skills for staleness, conflicts, and redundancy",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "shimo4228",
+    "repoName": "skill-stocktake",
+    "repoBranch": "main"
   }
 }
