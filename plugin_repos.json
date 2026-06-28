@@ -2947,11 +2947,92 @@
   },
   "scaccogatto/okf-skills": {
     "name": "scaccogatto/okf-skills",
-    "description": "The OKF toolkit for Claude Code — author, maintain, validate & visualize Open Knowledge Format (OKF) bundles: portable markdown + YAML knowledge for humans and agents. Ships /okf, /okf:validate, /okf:visualize.",
+    "description": "The OKF toolkit for Claude Code \u2014 author, maintain, validate & visualize Open Knowledge Format (OKF) bundles: portable markdown + YAML knowledge for humans and agents. Ships /okf, /okf:validate, /okf:visualize.",
     "enabled": true,
     "type": "marketplace",
     "repoOwner": "scaccogatto",
     "repoName": "okf-skills",
+    "repoBranch": "main"
+  },
+  "rse/ase": {
+    "name": "rse/ase",
+    "description": "Agentic Software Engineering (ASE)",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "rse",
+    "repoName": "ase",
+    "repoBranch": "master"
+  },
+  "Ronkupper/PRISM": {
+    "name": "Ronkupper/PRISM",
+    "description": "A framework for LLM-orchestrated research and audits. Multi-prompt, multi-session, context-disciplined.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "Ronkupper",
+    "repoName": "PRISM",
+    "repoBranch": "main"
+  },
+  "richfrem/agent-plugins-skills": {
+    "name": "richfrem/agent-plugins-skills",
+    "description": "repo for reusable plugins and skills",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "richfrem",
+    "repoName": "agent-plugins-skills",
+    "repoBranch": "main"
+  },
+  "tai2/aco": {
+    "name": "tai2/aco",
+    "description": "Appium Command-line Operator",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "tai2",
+    "repoName": "aco",
+    "repoBranch": "main"
+  },
+  "worksystems-design/dwsd-markdown": {
+    "name": "worksystems-design/dwsd-markdown",
+    "description": "DWSD \u2014 Dynamic Worksystems Design: describe an organization as a folder of Markdown files, for humans and AI agents.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "worksystems-design",
+    "repoName": "dwsd-markdown",
+    "repoBranch": "main"
+  },
+  "rolandobenitez/the-unofficial-swift-concurrency-migration-skill": {
+    "name": "rolandobenitez/the-unofficial-swift-concurrency-migration-skill",
+    "description": "\ud83d\udce6 Simplify Swift concurrency migration with this skill, offering full access to the Swift Concurrency Migration Guide and code examples for easy adaptation.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "rolandobenitez",
+    "repoName": "the-unofficial-swift-concurrency-migration-skill",
+    "repoBranch": "main"
+  },
+  "aarshsharma2803-stack/optimusprime": {
+    "name": "aarshsharma2803-stack/optimusprime",
+    "description": "The session state protocol for AI coding. Hook-level scope enforcement, cross-session memory, contradiction detection, and predictive context - Claude is stateless, your project isn't.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "aarshsharma2803-stack",
+    "repoName": "optimusprime",
+    "repoBranch": "main"
+  },
+  "ohugonnot/claude-skills": {
+    "name": "ohugonnot/claude-skills",
+    "description": "Battle-tested Claude Code skills by Odilon Hugonnot: quality-gated feature delivery, senior review, issue/MR workflow, branch wrap-up, book distillation, context saving, human-sounding tech writing, and a learning men...",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "ohugonnot",
+    "repoName": "claude-skills",
+    "repoBranch": "main"
+  },
+  "LandingRabbit/landingrabbit-skills": {
+    "name": "LandingRabbit/landingrabbit-skills",
+    "description": "AI skills for formatting landing page copy into LandingRabbit-ready markdown.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "LandingRabbit",
+    "repoName": "landingrabbit-skills",
     "repoBranch": "main"
   }
 }

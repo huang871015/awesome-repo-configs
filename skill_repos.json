@@ -3262,5 +3262,143 @@
         "branch": "main",
         "skillsPath": "skills",
         "enabled": true
+    },
+    "eugeniughelbur/obsidian-second-brain": {
+        "owner": "eugeniughelbur",
+        "name": "obsidian-second-brain",
+        "branch": "main",
+        "skillsPath": "./",
+        "enabled": true
+    },
+    "tt-a1i/archify": {
+        "owner": "tt-a1i",
+        "name": "archify",
+        "branch": "main",
+        "enabled": true
+    },
+    "Yuki001/game-dev-skills": {
+        "owner": "Yuki001",
+        "name": "game-dev-skills",
+        "branch": "main",
+        "enabled": true
+    },
+    "rse/ase": {
+        "owner": "rse",
+        "name": "ase",
+        "branch": "master",
+        "enabled": true
+    },
+    "kogakure/skills": {
+        "owner": "kogakure",
+        "name": "skills",
+        "branch": "master",
+        "enabled": true
+    },
+    "Frihet-io/frihet-mcp": {
+        "owner": "Frihet-io",
+        "name": "frihet-mcp",
+        "branch": "main",
+        "enabled": true
+    },
+    "Ronkupper/PRISM": {
+        "owner": "Ronkupper",
+        "name": "PRISM",
+        "branch": "main",
+        "skillsPath": "./",
+        "enabled": true
+    },
+    "PIsberg/skill3": {
+        "owner": "PIsberg",
+        "name": "skill3",
+        "branch": "main",
+        "skillsPath": ".claude/skills",
+        "enabled": true
+    },
+    "richfrem/agent-plugins-skills": {
+        "owner": "richfrem",
+        "name": "agent-plugins-skills",
+        "branch": "main",
+        "enabled": true
+    },
+    "Reinforce-Omega/clawlabor-skill": {
+        "owner": "Reinforce-Omega",
+        "name": "clawlabor-skill",
+        "branch": "main",
+        "skillsPath": "./",
+        "enabled": true
+    },
+    "ellmos-ai/skills": {
+        "owner": "ellmos-ai",
+        "name": "skills",
+        "branch": "master",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "ViktorsBaikers/DevRites": {
+        "owner": "ViktorsBaikers",
+        "name": "DevRites",
+        "branch": "main",
+        "enabled": true
+    },
+    "tai2/aco": {
+        "owner": "tai2",
+        "name": "aco",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "worksystems-design/dwsd-markdown": {
+        "owner": "worksystems-design",
+        "name": "dwsd-markdown",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "rafalr100/enterprise-architect-skill": {
+        "owner": "rafalr100",
+        "name": "enterprise-architect-skill",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "rolandobenitez/the-unofficial-swift-concurrency-migration-skill": {
+        "owner": "rolandobenitez",
+        "name": "the-unofficial-swift-concurrency-migration-skill",
+        "branch": "main",
+        "enabled": true
+    },
+    "aarshsharma2803-stack/optimusprime": {
+        "owner": "aarshsharma2803-stack",
+        "name": "optimusprime",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "ohugonnot/claude-skills": {
+        "owner": "ohugonnot",
+        "name": "claude-skills",
+        "branch": "main",
+        "enabled": true
+    },
+    "LandingRabbit/landingrabbit-skills": {
+        "owner": "LandingRabbit",
+        "name": "landingrabbit-skills",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "sakydev/claude": {
+        "owner": "sakydev",
+        "name": "claude",
+        "branch": "master",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "cismontane-harris2642/signal-prospecting-kit": {
+        "owner": "cismontane-harris2642",
+        "name": "signal-prospecting-kit",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
     }
 }
