@@ -2944,5 +2944,14 @@
     "repoOwner": "shimo4228",
     "repoName": "skill-stocktake",
     "repoBranch": "main"
+  },
+  "scaccogatto/okf-skills": {
+    "name": "scaccogatto/okf-skills",
+    "description": "The OKF toolkit for Claude Code — author, maintain, validate & visualize Open Knowledge Format (OKF) bundles: portable markdown + YAML knowledge for humans and agents. Ships /okf, /okf:validate, /okf:visualize.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "scaccogatto",
+    "repoName": "okf-skills",
+    "repoBranch": "main"
   }
 }
