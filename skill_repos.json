@@ -3407,5 +3407,123 @@
         "branch": "main",
         "skillsPath": "skills",
         "enabled": true
+    },
+    "spencermarx/open-code-review": {
+        "owner": "spencermarx",
+        "name": "open-code-review",
+        "branch": "main",
+        "skillsPath": ".claude/skills",
+        "enabled": true
+    },
+    "ndom91/open-plan-annotator": {
+        "owner": "ndom91",
+        "name": "open-plan-annotator",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "fedec65/bettercallclaude": {
+        "owner": "fedec65",
+        "name": "bettercallclaude",
+        "branch": "main",
+        "enabled": true
+    },
+    "zebbern/skills": {
+        "owner": "zebbern",
+        "name": "skills",
+        "branch": "main",
+        "enabled": true
+    },
+    "clomia/claude-automata": {
+        "owner": "clomia",
+        "name": "claude-automata",
+        "branch": "main",
+        "enabled": true
+    },
+    "mcmespinaa/folder-structure-protocol": {
+        "owner": "mcmespinaa",
+        "name": "folder-structure-protocol",
+        "branch": "main",
+        "skillsPath": ".claude/skills",
+        "enabled": true
+    },
+    "geekjourneyx/hyperframes-motion-director": {
+        "owner": "geekjourneyx",
+        "name": "hyperframes-motion-director",
+        "branch": "main",
+        "skillsPath": "./",
+        "enabled": true
+    },
+    "AcKeskin/contexture": {
+        "owner": "AcKeskin",
+        "name": "contexture",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "yinjialu/ai-frontier-daily": {
+        "owner": "yinjialu",
+        "name": "ai-frontier-daily",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "outreachmagic/email-finder": {
+        "owner": "outreachmagic",
+        "name": "email-finder",
+        "branch": "main",
+        "skillsPath": "./",
+        "enabled": true
+    },
+    "outreachmagic/lead-enrich": {
+        "owner": "outreachmagic",
+        "name": "lead-enrich",
+        "branch": "main",
+        "skillsPath": "./",
+        "enabled": true
+    },
+    "Insolvent-pyrene754/claude-code-server-side-swift-skills": {
+        "owner": "Insolvent-pyrene754",
+        "name": "claude-code-server-side-swift-skills",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "oh-summy/skills": {
+        "owner": "oh-summy",
+        "name": "skills",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "modest-curator478/claude-skills": {
+        "owner": "modest-curator478",
+        "name": "claude-skills",
+        "branch": "main",
+        "enabled": true
+    },
+    "maicon76/sundayhao-plugins": {
+        "owner": "maicon76",
+        "name": "sundayhao-plugins",
+        "branch": "main",
+        "enabled": true
+    },
+    "izahamyatim/claude-plugin-fizzy": {
+        "owner": "izahamyatim",
+        "name": "claude-plugin-fizzy",
+        "branch": "main",
+        "enabled": true
+    },
+    "V-Songbird/claude-plugins": {
+        "owner": "V-Songbird",
+        "name": "claude-plugins",
+        "branch": "main",
+        "enabled": true
+    },
+    "gdm257/cc-plugins": {
+        "owner": "gdm257",
+        "name": "cc-plugins",
+        "branch": "main",
+        "enabled": true
     }
 }

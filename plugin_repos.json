@@ -3034,5 +3034,104 @@
     "repoOwner": "LandingRabbit",
     "repoName": "landingrabbit-skills",
     "repoBranch": "main"
+  },
+  "spencermarx/open-code-review": {
+    "name": "spencermarx/open-code-review",
+    "description": "AI-powered multi-agent code review. Simulates a customizable team of Engineers performing code review with built-in discourse.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "spencermarx",
+    "repoName": "open-code-review",
+    "repoBranch": "main"
+  },
+  "ndom91/open-plan-annotator": {
+    "name": "ndom91/open-plan-annotator",
+    "description": "Local-first agent plan annotator",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "ndom91",
+    "repoName": "open-plan-annotator",
+    "repoBranch": "main"
+  },
+  "fedec65/bettercallclaude": {
+    "name": "fedec65/bettercallclaude",
+    "description": "A powerful plugin for Claude Cowork Desktop, designed specifically for Swiss legal professionals. 20 agents,  14 skills, and 9 MCP servers \u2014 automate research, draft documents, and navigate complex legal landscapes wi...",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "fedec65",
+    "repoName": "bettercallclaude",
+    "repoBranch": "main"
+  },
+  "clomia/claude-automata": {
+    "name": "clomia/claude-automata",
+    "description": "claude code plugin marketplace",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "clomia",
+    "repoName": "claude-automata",
+    "repoBranch": "main"
+  },
+  "oh-summy/skills": {
+    "name": "oh-summy/skills",
+    "description": "Cross-agent AI skills for Claude, Codex, OpenCode, Kimi Code, and more. Install all at once or pick only what you need.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "oh-summy",
+    "repoName": "skills",
+    "repoBranch": "main"
+  },
+  "maicon76/sundayhao-plugins": {
+    "name": "maicon76/sundayhao-plugins",
+    "description": "\ud83e\udde0 Boost your workflow with Sundayhao plugins, transforming Claude into a memory-rich tool for enhanced productivity and knowledge retention.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "maicon76",
+    "repoName": "sundayhao-plugins",
+    "repoBranch": "main"
+  },
+  "izahamyatim/claude-plugin-fizzy": {
+    "name": "izahamyatim/claude-plugin-fizzy",
+    "description": "\ud83d\ude80 Sync Claude's todos to Fizzy.do for real-time team visibility, turning tasks into persistent cards to boost collaboration and track progress effortlessly.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "izahamyatim",
+    "repoName": "claude-plugin-fizzy",
+    "repoBranch": "main"
+  },
+  "V-Songbird/claude-plugins": {
+    "name": "V-Songbird/claude-plugins",
+    "description": "A custom marketplace of Claude Code plugins for both experienced developers and vibe coders, extending Claude Code with workflows, commands, and integrations that fit how you actually build.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "V-Songbird",
+    "repoName": "claude-plugins",
+    "repoBranch": "main"
+  },
+  "claylo/claylo-marketplace": {
+    "name": "claylo/claylo-marketplace",
+    "description": "Tools worth the tokens. A curated Claude Code plugin marketplace.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "claylo",
+    "repoName": "claylo-marketplace",
+    "repoBranch": "main"
+  },
+  "betmoar/ccp-market": {
+    "name": "betmoar/ccp-market",
+    "description": "betmoar's Claude Code plugin marketplace \u2014 install with /plugin marketplace add betmoar/ccp-market",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "betmoar",
+    "repoName": "ccp-market",
+    "repoBranch": "main"
+  },
+  "gdm257/cc-plugins": {
+    "name": "gdm257/cc-plugins",
+    "description": "Elegant Claude Code Plugins",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "gdm257",
+    "repoName": "cc-plugins",
+    "repoBranch": "main"
   }
 }

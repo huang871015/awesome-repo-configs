@@ -863,5 +863,19 @@
     "branch": "main",
     "agentsPath": ".claude/agents",
     "enabled": true
+  },
+  "spencermarx/open-code-review": {
+    "owner": "spencermarx",
+    "name": "open-code-review",
+    "branch": "main",
+    "agentsPath": ".claude/agents",
+    "enabled": true
+  },
+  "AcKeskin/contexture": {
+    "owner": "AcKeskin",
+    "name": "contexture",
+    "branch": "main",
+    "agentsPath": "agents",
+    "enabled": true
   }
 }
